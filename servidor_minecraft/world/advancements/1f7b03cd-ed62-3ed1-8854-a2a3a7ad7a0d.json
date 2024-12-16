@@ -1297,9 +1297,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "has_pink_petals": "2024-12-16 17:38:05 +0000"
+      "has_iron_block": "2024-12-16 14:10:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-16 14:10:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-16 14:45:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-16 14:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-16 14:46:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-16 14:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-16 14:46:14 +0000"
     },
     "done": true
   },
@@ -1309,9 +1345,33 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
-      "lava_bucket": "2024-12-16 14:46:05 +0000"
+      "has_white_terracotta": "2024-12-16 14:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-16 15:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-16 15:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-16 15:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-16 15:51:49 +0000"
     },
     "done": true
   },
@@ -1327,45 +1387,9 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
-      "iron_pickaxe": "2024-12-16 14:46:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_axe": "2024-12-16 17:33:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_glazed_terracotta": {
-    "criteria": {
-      "has_white_terracotta": "2024-12-16 14:49:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_axe": "2024-12-16 17:33:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2024-12-16 14:46:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2024-12-16 14:10:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2024-12-16 15:17:48 +0000"
+      "has_raw_copper": "2024-12-16 16:05:17 +0000"
     },
     "done": true
   },
@@ -1375,45 +1399,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-12-16 15:42:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2024-12-16 15:51:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-16 15:42:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2024-12-16 17:23:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_hay_block": "2024-12-16 14:45:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2024-12-16 14:46:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2024-12-16 14:10:00 +0000"
     },
     "done": true
   },
@@ -1423,15 +1411,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
-      "has_raw_copper": "2024-12-16 16:05:17 +0000"
+      "has_golden_axe": "2024-12-16 17:33:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2024-12-16 17:33:48 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-12-16 17:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-12-16 17:38:05 +0000"
     },
     "done": true
   },

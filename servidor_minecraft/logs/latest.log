@@ -720,3 +720,28 @@ Changelog: https://github.com/SpraxDev/BetterChairs/blob/main/CHANGELOG.md#versi
 [23:06:05] [Server thread/INFO]: Helion08[/127.18.195.150:34537] logged in with entity id 17191 at ([world]417.5, 128.0, 515.5)
 [23:07:20] [Server thread/WARN]: Sunflowers2824 moved wrongly!
 [23:09:29] [Server thread/INFO]: FNCalessxx issued server command: /skill
+[23:13:37] [Server thread/INFO]: Named entity Bat['Infernal Bat'/20239, uuid='5247dd3f-5f62-4985-bdfb-6c5c2b9c5da9', l='ServerLevel[world]', x=330.79, y=47.00, z=-170.70, cpos=[20, -11], tl=260, v=true] died: Infernal Bat suffocated in a wall
+[23:13:42] [Server thread/INFO]: rapa2845 was slain by Zombie
+[23:13:54] [Server thread/INFO]: Helion08 died
+[23:15:23] [Server thread/INFO]: Sunflowers2824 has made the advancement [Not Today, Thank You]
+[23:15:52] [Server thread/INFO]: Helion08 was slain by Zombie
+[23:16:39] [Server thread/INFO]: Sunflowers2824 was slain by Zombie
+[23:16:56] [Server thread/WARN]: rapa2845 moved wrongly!
+[23:17:00] [localSession-7-1/INFO]: [Geyser-Spigot] Sunflowers2824 has disconnected from the Java server because of Bedrock client disconnected
+[23:17:00] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as Sunflowers2824 disconnected
+[23:17:00] [Server thread/INFO]: Sunflowers2824 lost connection: Disconnected
+[23:17:00] [Server thread/INFO]: Sunflowers2824 left the game
+[23:17:19] [Server thread/INFO]: FNCalessxx has made the advancement [Monster Hunter]
+[23:17:42] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Sunflowers2824
+[23:17:42] [localSession-7-3/INFO]: [Geyser-Spigot] Sunflowers2824 (logged in as: Sunflowers2824) has connected to the Java server
+[23:17:43] [Server thread/INFO]: [floodgate] Floodgate player logged in as Sunflowers2824 joined (UUID: 00000000-0000-0000-0009-01ff67c476ad)
+[23:17:43] [Server thread/INFO]: Sunflowers2824 joined the game
+[23:17:43] [Server thread/INFO]: Sunflowers2824[/127.0.0.1:0] logged in with entity id 22055 at ([world]201.22789, 92.0, -162.58669)
+[23:18:19] [Server thread/INFO]: FNCalessxx has made the advancement [Ice Bucket Challenge]
+[23:18:19] [Server thread/INFO]: FNCalessxx has made the advancement [Hot Stuff]
+[23:19:03] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as rapa2845 disconnected
+[23:19:03] [localSession-7-2/INFO]: [Geyser-Spigot] rapa2845 has disconnected from the Java server because of Bedrock client disconnected
+[23:19:03] [Server thread/INFO]: rapa2845 lost connection: Disconnected
+[23:19:03] [Server thread/INFO]: rapa2845 left the game
+[23:20:27] [Server thread/INFO]: FNCalessxx issued server command: /SKILL
+[23:20:33] [Server thread/INFO]: FNCalessxx issued server command: /skill
