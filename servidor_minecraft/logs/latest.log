@@ -667,3 +667,9 @@ Changelog: https://github.com/SpraxDev/BetterChairs/blob/main/CHANGELOG.md#versi
 [22:18:53] [Server thread/INFO]: rapa2845 lost connection: Disconnected
 [22:18:53] [Server thread/INFO]: rapa2845 left the game
 [22:18:57] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/6463, uuid='f01bcd54-5b0c-4eb8-9b11-412497df7d8e', l='ServerLevel[world]', x=207.91, y=90.51, z=-251.89, cpos=[12, -16], tl=881, v=true] died: Infernal Skeleton suffocated in a wall
+[22:19:42] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username rapa2845
+[22:19:42] [localSession-7-3/INFO]: [Geyser-Spigot] rapa2845 (logged in as: rapa2845) has connected to the Java server
+[22:19:42] [Server thread/INFO]: [floodgate] Floodgate player logged in as rapa2845 joined (UUID: 00000000-0000-0000-0009-01f656f1d938)
+[22:19:42] [Server thread/INFO]: rapa2845 joined the game
+[22:19:42] [Server thread/INFO]: rapa2845[/127.0.0.1:0] logged in with entity id 6720 at ([world]284.80884, 99.0, 124.89102)
+[22:26:53] [Server thread/WARN]: rapa2845 moved wrongly!

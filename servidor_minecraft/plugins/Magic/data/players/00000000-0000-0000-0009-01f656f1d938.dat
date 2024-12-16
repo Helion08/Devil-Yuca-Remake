@@ -1,7 +1,7 @@
 id: 00000000-0000-0000-0009-01f656f1d938
 name: rapa2845
 created: 1734297037883
-updated: 1734387533195
+updated: 1734387909246
 last_cast: 0
 cooldown_expiration: 0
 last_death_location: 315.0172,100.05878,149.41212,world,84.72989,11.764938
@@ -27,7 +27,7 @@ classes:
   caster: {}
   mage:
     effect_color: 561feff5d5bf,910914c39949,e865e5c70616
-    mana_timestamp: 1734387533095
+    mana_timestamp: 1734387909245
     mana: 50.0
 transient_modifiers: {}
 active_class: mage
