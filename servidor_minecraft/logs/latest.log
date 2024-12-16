@@ -673,3 +673,5 @@ Changelog: https://github.com/SpraxDev/BetterChairs/blob/main/CHANGELOG.md#versi
 [22:19:42] [Server thread/INFO]: rapa2845 joined the game
 [22:19:42] [Server thread/INFO]: rapa2845[/127.0.0.1:0] logged in with entity id 6720 at ([world]284.80884, 99.0, 124.89102)
 [22:26:53] [Server thread/WARN]: rapa2845 moved wrongly!
+[22:36:59] [Server thread/INFO]: Named entity Spider['Infernal Spider'/9446, uuid='92b85846-4faa-4a1c-b59f-facd8730d0bd', l='ServerLevel[world]', x=268.53, y=158.69, z=-408.95, cpos=[16, -26], tl=1355, v=true] died: Infernal Spider suffocated in a wall
+[22:38:01] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/9071, uuid='8305862f-d51d-413c-9010-4a0a8b2f4e69', l='ServerLevel[world]', x=282.05, y=17.51, z=-233.60, cpos=[17, -15], tl=5096, v=true] died: Infernal Skeleton suffocated in a wall
