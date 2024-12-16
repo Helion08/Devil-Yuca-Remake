@@ -1,408 +1,358 @@
-[19:42:20] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[19:42:20] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[19:42:20] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[19:42:21] [ServerMain/INFO]: [PluginInitializerManager] Initialized 30 plugins
-[19:42:21] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+[21:38:56] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[21:38:56] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[21:38:56] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:39:00] [ServerMain/INFO]: [PluginInitializerManager] Initialized 30 plugins
+[21:39:00] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
  - SuperEnchants (2.6.7)
-[19:42:21] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (29):
+[21:39:00] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (29):
  - AuraSkills (2.2.6), AxGraves (1.16.0), BackpackPlus (1.4.5), BetterChairs (1.12.0), Brewery (3.1.1), CustomCrafting (4.16.11), Elevator (1.2), ExecutableItems (7.24.12.3), Geyser-Spigot (2.5.1-SNAPSHOT), GlowingItems (1.0.3), ImageFrame (1.7.9.0), InfernalMobs (6.8), InteractionVisualizer (1.18.10.0), Magic (10.9.4-1bea7e8), NBTAPI (2.14.0), PlayerCarry (1.1), ProtocolLib (5.3.0), QualityArmory (2.0.16), ReviveMe (0.4.4), RottenFlesh2Leather (1.21-v1.0), SCore (5.24.12.3), SimpleCrops (2.1.5-BETA), Sleeper (1.5.3), Streamotes (1.2.3), TeaWaystones (1.0.5), ViaVersion (5.1.1), Waypoints (4.5.5), WolfyUtilities (4.17-beta.7), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
-[19:42:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Blindness' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'HealthSteal' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bleed' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lightning' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Teleport' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Jetpack' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Explosive' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Excavator' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Autosmelt' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Freeze' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Confusion' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Multishoot' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Dash' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bloodlust' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Shockwave' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Veinminer' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'XPBoost' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Enlightened' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'EnderAura' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Frostbite' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Leap' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Speed' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Magnet' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Growth' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Detonate' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Backstabber' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Piercing' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Deflecting' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bait' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Angler' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Abiding' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Disarm' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Archer' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Farmer' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Decapitation' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Dismantle' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Famine' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Spotlight' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Feast' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Updraft' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lavawalker' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Doublestrike' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Timber' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Missile' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Critical' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Inflame' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Nightowl' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Headshot' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'ArrowStorm' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Hook' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Gravity' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Adrenaline' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Resilience' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Coward' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Weaken' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Withering' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Heavy' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lightweight' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Blastoff' registered successfully.
-[19:42:27] [ServerMain/INFO]: [SuperEnchants] All custom enchantments registered successfully!
-[19:42:28] [ServerMain/INFO]: Loaded 1290 recipes
-[19:42:28] [ServerMain/INFO]: Loaded 1399 advancements
-[19:42:29] [Server thread/INFO]: Starting minecraft server version 1.21
-[19:42:29] [Server thread/INFO]: Loading properties
-[19:42:29] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[19:42:29] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[19:42:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:42:29] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:42:29] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[19:42:29] [Server thread/INFO]: Default game type: SURVIVAL
-[19:42:29] [Server thread/INFO]: Generating keypair
-[19:42:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:42:29] [Server thread/INFO]: Using epoll channel type
-[19:42:29] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[19:42:29] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[19:42:31] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loading 3 libraries... please wait
-[19:42:31] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/inject/guice/5.1.0/guice-5.1.0.pom
-[19:42:31] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/inject/guice-parent/5.1.0/guice-parent-5.1.0.pom
-[19:42:31] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/google/5/google-5.pom
-[19:42:31] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom
-[19:42:31] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.pom
-[19:42:31] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/30.1-jre/guava-30.1-jre.pom
-[19:42:31] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/30.1-jre/guava-parent-30.1-jre.pom
-[19:42:31] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.pom
-[19:42:31] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/26.0-android/guava-parent-26.0-android.pom
-[19:42:31] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
-[19:42:31] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.pom
-[19:42:31] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.pom
-[19:42:32] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
-[19:42:32] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.pom
-[19:42:32] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.3.4/error_prone_annotations-2.3.4.pom
-[19:42:32] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_parent/2.3.4/error_prone_parent-2.3.4.pom
-[19:42:32] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.pom
-[19:42:32] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.pom
-[19:42:32] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/52/commons-parent-52.pom
-[19:42:32] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apache/apache/23/apache-23.pom
-[19:42:32] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.7.1/junit-bom-5.7.1.pom
-[19:42:32] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.pom
-[19:42:32] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/inject/guice/5.1.0/guice-5.1.0.jar
-[19:42:32] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/30.1-jre/guava-30.1-jre.jar
-[19:42:32] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.jar
-[19:42:32] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.3.4/error_prone_annotations-2.3.4.jar
-[19:42:32] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar
-[19:42:32] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
-[19:42:32] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
-[19:42:32] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar
-[19:42:32] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/com/google/inject/guice/5.1.0/guice-5.1.0.jar
-[19:42:32] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/javax/inject/javax.inject/1/javax.inject-1.jar
-[19:42:32] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
-[19:42:32] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/com/google/guava/guava/30.1-jre/guava-30.1-jre.jar
-[19:42:32] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
-[19:42:32] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
-[19:42:32] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
-[19:42:32] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.jar
-[19:42:32] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/com/google/errorprone/error_prone_annotations/2.3.4/error_prone_annotations-2.3.4.jar
-[19:42:32] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar
-[19:42:32] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
-[19:42:32] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar
-[19:42:35] [Server thread/INFO]: [me.wolfyscript.lib.org.reflections.Reflections] Reflections took 653 ms to scan 1 urls, producing 924 keys and 3724 values
-[19:42:35] [Server thread/INFO]: [WolfyUtilities] Register Default StackIdentifiers
-[19:42:36] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loading 2 libraries... please wait
-[19:42:36] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/4.0.3/HikariCP-4.0.3.pom
-[19:42:36] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.pom
-[19:42:36] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/2.0.0-alpha1/slf4j-parent-2.0.0-alpha1.pom
-[19:42:36] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.46.1.0/sqlite-jdbc-3.46.1.0.pom
-[19:42:36] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.pom
-[19:42:36] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.36/slf4j-parent-1.7.36.pom
-[19:42:36] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/4.0.3/HikariCP-4.0.3.jar
-[19:42:36] [BasicRepositoryConnector-repo.maven.apache.org-1-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
-[19:42:36] [BasicRepositoryConnector-repo.maven.apache.org-1-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.46.1.0/sqlite-jdbc-3.46.1.0.jar
-[19:42:36] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/com/zaxxer/HikariCP/4.0.3/HikariCP-4.0.3.jar
-[19:42:36] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
-[19:42:36] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/org/xerial/sqlite-jdbc/3.46.1.0/sqlite-jdbc-3.46.1.0.jar
-[19:42:36] [Server thread/INFO]: [SpigotLibraryLoader] [Waypoints] Loading 3 libraries... please wait
-[19:42:36] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.0.21/kotlin-stdlib-2.0.21.pom
-[19:42:36] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0.pom
-[19:42:36] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-reflect/2.0.21/kotlin-reflect-2.0.21.pom
-[19:42:37] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.pom
-[19:42:37] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.9.0/kotlinx-coroutines-bom-1.9.0.pom
-[19:42:37] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/23.0.0/annotations-23.0.0.pom
-[19:42:37] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.0.0/kotlin-stdlib-2.0.0.pom
-[19:42:37] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.0.21/kotlin-stdlib-2.0.21.jar
-[19:42:37] [BasicRepositoryConnector-repo.maven.apache.org-2-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.jar
-[19:42:37] [BasicRepositoryConnector-repo.maven.apache.org-2-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0.jar
-[19:42:37] [BasicRepositoryConnector-repo.maven.apache.org-2-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-reflect/2.0.21/kotlin-reflect-2.0.21.jar
-[19:42:37] [Server thread/INFO]: [SpigotLibraryLoader] [Waypoints] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/org/jetbrains/kotlin/kotlin-stdlib/2.0.21/kotlin-stdlib-2.0.21.jar
-[19:42:37] [Server thread/INFO]: [SpigotLibraryLoader] [Waypoints] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
-[19:42:37] [Server thread/INFO]: [SpigotLibraryLoader] [Waypoints] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/org/jetbrains/kotlin/kotlin-reflect/2.0.21/kotlin-reflect-2.0.21.jar
-[19:42:37] [Server thread/INFO]: [SpigotLibraryLoader] [Waypoints] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.jar
-[19:42:38] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.1.1
-[19:42:38] [Server thread/INFO]: [ViaVersion] ViaVersion 5.1.1 is now loaded. Registering protocol transformers and injecting...
-[19:42:39] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[19:42:39] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[19:42:40] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
-[19:42:41] [Server thread/INFO]: [NBTAPI] Loading server plugin NBTAPI v2.14.0
-[19:42:41] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21! Trying to find NMS support
-[19:42:41] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
-[19:42:41] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'NBTAPI' to create a bStats instance!
-[19:42:41] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[19:42:41] [Thread-6/WARN]: [NBTAPI] [NBTAPI] The NBT-API in 'NBTAPI' seems to be outdated!
-[19:42:41] [Thread-6/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.14.0' Newest Version: 2.14.1'
-[19:42:41] [Thread-6/WARN]: [NBTAPI] [NBTAPI] Please update the NBTAPI or the plugin that contains the api(nag the mod author when the newest release has an old version, not the NBTAPI dev)!
-[19:42:42] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[19:42:42] [Server thread/INFO]: [floodgate] Took 1,516ms to boot Floodgate
-[19:42:42] [Server thread/INFO]: [SCore] Loading server plugin SCore v5.24.12.3
-[19:42:42] [Server thread/INFO]: [Magic] Loading server plugin Magic v10.9.4-1bea7e8
-[19:42:43] [Server thread/INFO]: [Magic] Loading modern compatibility layer for server version 1.21.0
-[19:42:43] [Server thread/INFO]: [Magic] Async chunk loading API found
-[19:42:43] [Server thread/INFO]: [Magic] Chat component API found
-[19:42:43] [Server thread/INFO]: [QualityArmory] Loading server plugin QualityArmory v2.0.16
-[19:42:43] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.5.1-SNAPSHOT
-[19:42:45] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[19:42:45] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[19:42:45] [Server thread/INFO]: [WolfyUtilities] Loading server plugin WolfyUtilities v4.17-beta.7
-[19:42:45] [Server thread/INFO]: [WolfyUtilities] Register JSON de-/serializers
-[19:42:45] [Server thread/INFO]: [WolfyUtilities] Register JSON Operators
-[19:42:45] [Server thread/INFO]: [WolfyUtilities] Register JSON Value Providers
-[19:42:45] [Server thread/INFO]: [WolfyUtilities] Register CustomItem NBT Checks
-[19:42:45] [Server thread/INFO]: [WolfyUtilities] Register CustomItem Actions
-[19:42:45] [Server thread/INFO]: [WolfyUtilities] Register CustomItem Events
-[19:42:45] [Server thread/INFO]: [WolfyUtilities] Register Particle Animators
-[19:42:45] [Server thread/INFO]: [WolfyUtilities] Register Particle Shapes
-[19:42:45] [Server thread/INFO]: [WolfyUtilities] Register Particle Timers
-[19:42:45] [Server thread/INFO]: [WolfyUtilities] Register Custom Block Data
-[19:42:45] [Server thread/INFO]: [WolfyUtilities] Register Custom Player Data
-[19:42:45] [Server thread/INFO]: [WolfyUtilities] Register NBT Query Nodes
-[19:42:45] [Server thread/INFO]: [SimpleCrops] Loading server plugin SimpleCrops v2.1.5-BETA
-[19:42:45] [Server thread/INFO]: [Brewery] Loading server plugin Brewery v3.1.1
-[19:42:45] [Server thread/INFO]: [SuperEnchants] Loading server plugin SuperEnchants v2.6.7
-[19:42:45] [Server thread/INFO]: [TeaWaystones] Loading server plugin TeaWaystones v1.0.5
-[19:42:45] [Server thread/INFO]: [Sleeper] Loading server plugin Sleeper v1.5.3
-[19:42:45] [Server thread/INFO]: [Elevator] Loading server plugin Elevator v1.2
-[19:42:45] [Server thread/INFO]: [ImageFrame] Loading server plugin ImageFrame v1.7.9.0
-[19:42:45] [Server thread/INFO]: [InfernalMobs] Loading server plugin InfernalMobs v6.8
-[19:42:45] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.2.6
-[19:42:45] [Server thread/INFO]: [RottenFlesh2Leather] Loading server plugin RottenFlesh2Leather v1.21-v1.0
-[19:42:45] [Server thread/INFO]: [ReviveMe] Loading server plugin ReviveMe v0.4.4
-[19:42:45] [Server thread/INFO]: [BackpackPlus] Loading server plugin BackpackPlus v1.4.5
-[19:42:45] [Server thread/INFO]: [ExecutableItems] Loading server plugin ExecutableItems v7.24.12.3
-[19:42:45] [Server thread/INFO]: [Waypoints] Loading server plugin Waypoints v4.5.5
-[19:42:46] [Server thread/INFO]: [InteractionVisualizer] Loading server plugin InteractionVisualizer v1.18.10.0
-[19:42:46] [Server thread/INFO]: [GlowingItems] Loading server plugin GlowingItems v1.0.3
-[19:42:46] [Server thread/INFO]: [BetterChairs] Loading server plugin BetterChairs v1.12.0
-[19:42:46] [Server thread/INFO]: [CustomCrafting] Loading server plugin CustomCrafting v4.16.11
-[19:42:46] [Server thread/INFO]: [CustomCrafting] WolfyUtils API: v4.17-beta.7
-[19:42:46] [Server thread/INFO]: [CustomCrafting] CustomCrafting: v4.16.11
-[19:42:46] [Server thread/INFO]: [CustomCrafting] Environment   : PROD
-[19:42:46] [Server thread/INFO]: [CustomCrafting] Registering CustomItem Data
-[19:42:46] [Server thread/INFO]: [CustomCrafting] Registering Custom Block Data
-[19:42:46] [Server thread/INFO]: [CustomCrafting] Registering Result Extensions
-[19:42:46] [Server thread/INFO]: [CustomCrafting] Registering Result Merge Adapters
-[19:42:46] [Server thread/INFO]: [CustomCrafting] Registering Recipe Conditions
-[19:42:46] [Server thread/INFO]: [CustomCrafting] Registering Recipe Types
-[19:42:46] [Server thread/INFO]: [CustomCrafting] Registering Anvil Recipe Tasks
-[19:42:46] [Server thread/INFO]: [CustomCrafting] Registering Type Registries
-[19:42:46] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.16.0
-[19:42:46] [Server thread/INFO]: [AxGraves] Loading library commons-math3
-[19:42:46] [Server thread/INFO]: [AxGraves] Loading library caffeine
-[19:42:46] [Server thread/INFO]: [PlayerCarry] Loading server plugin PlayerCarry v1.1
-[19:42:46] [Server thread/INFO]: [Streamotes] Loading server plugin Streamotes v1.2.3
-[19:42:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:42:46] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
-[19:42:46] [Server thread/INFO]: [Magic] Enabling Magic v10.9.4-1bea7e8
-[19:42:46] [Server thread/INFO]: [Magic] EffectLib initialized
-[19:42:47] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[19:42:54] [Server thread/INFO]: [Magic] Loaded 0 attributes
-[19:42:55] [Server thread/INFO]: [Magic] Wand crafting is enabled
-[19:42:55] [Server thread/INFO]: [Magic] Skin-based spell icons disabled
-[19:42:55] [Server thread/INFO]: [Magic] Registered attributes: [target_fall_distance, explosive, minecraft:wind_charged, regeneration, projectile_protection, bowpower, freeze, famine, humidity, jump, lightning, target_luck, blindness, absorption, target_armor, minecraft:weaving, silk_touch, unluck, invisibility, target_health_max, air_max, slow, mana_max, doublestrike, enlightened, angler, weeks, swift_sneak, fast_digging, enderaura, temperature, riptide, resilience, health_boost, levitation, increase_damage, density, poison, binding_curse, yaw, dismantle, mana, glowing, target_health, jetpack, archer, days, infinity, spotlight, arrowstorm, bad_omen, thorns, hero_of_the_village, target_hunger, bloodlust, smite, minecraft:raid_omen, feather_falling, luck_of_the_sea, nightowl, knockback_resistance, conduit_power, missile, target_air, bane_of_arthropods, soul_speed, water_breathing, fall_distance, quick_charge, bleed, hunger, feast, slow_falling, difficulty, armor, wind_burst, fulltime, confusion, blast_protection, harm, speed, damage_resistance, excavator, deflecting, inflame, minecraft:oozing, hours, looting, weaken, target_air_max, magnet, movement_speed, play_time, depth_strider, gravity, xp, farmer, time, flame, wither, xpboost, abiding, respiration, degrees, seconds, blastoff, hook, channeling, multishoot, target_pitch, pitch, timber, sharpness, darkness, health_max, efficiency, target_light, loyalty, slow_digging, fire_resistance, detonate, heavy, moon, light, bowpull, damage, minecraft:trial_omen, mending, epoch, protection, air, lure, punch, headshot, healthsteal, frost_walker, movement_speed_bps, leap, power, veinminer, health, target_temperature, target_humidity, impaling, luck, bait, location_x, unbreaking, location_y, target_mana, attack_damage, knockback, fire_aspect, shockwave, frostbite, saturation, location_z, lavawalker, backstabber, night_vision, level, minutes, coward, disarm, multishot, aqua_affinity, withering, dash, decapitation, damage_dealt, critical, piercing, fire_protection, target_yaw, teleport, dolphins_grace, lightweight, weakness, adrenaline, heal, target_mana_max, autosmelt, breach, fortune, updraft, minecraft:infested, velocity, sweeping_edge, target_location_x, pi, target_location_y, vanishing_curse, target_knockback_resistance, target_location_z, growth]
-[19:42:55] [Server thread/INFO]: [Magic] Loaded 182 icons
-[19:42:55] [Server thread/INFO]: [Magic] Loaded 12 effect lists
-[19:42:55] [Server thread/INFO]: [Magic] Loaded 1403 items
-[19:42:55] [Server thread/INFO]: [Magic] Loaded 199 wands
-[19:42:55] [Server thread/INFO]: [Magic] Loaded 2 kits
-[19:42:55] [Server thread/INFO]: [Magic] Loaded 10 classes
-[19:42:55] [Server thread/INFO]: [Magic] Loaded 5 classes
-[19:42:55] [Server thread/INFO]: [Magic] Loaded 48 mob templates
-[19:42:55] [Server thread/INFO]: [Magic] Loaded 8 automata templates
-[19:42:55] [Server thread/INFO]: [Magic] Loaded 0 customized worlds
-[19:42:55] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:42:55] [Server thread/INFO]: [Magic] Activated BStats
-[19:42:55] [Server thread/INFO]: [Magic] MobArena not found
-[19:42:55] [Server thread/INFO]: [Magic] LibsDisguises not found, magic mob disguises will not be available
-[19:42:55] [Server thread/INFO]: [Magic] ModelEngine integration disabled
-[19:42:55] [Server thread/INFO]: Magic checking resource pack for updates: http://rp.elmakers.com/Magic-RP-1.20.4.zip
-[19:42:55] [Server thread/INFO]: [WolfyUtilities] Enabling WolfyUtilities v4.17-beta.7
-[19:42:55] [Server thread/INFO]: [WolfyUtilities] Minecraft version: 1.21.0
-[19:42:55] [Server thread/INFO]: [WolfyUtilities] WolfyUtils version: 4.17.0.0
-[19:42:55] [Server thread/INFO]: [WolfyUtilities] Environment: PROD
-[19:42:55] [Server thread/INFO]: [WolfyUtilities] Loading Plugin integrations: 
-[19:42:55] [Server thread/INFO]: [WolfyUtilities]  - ExecutableItems
-[19:42:55] [Server thread/INFO]: [WolfyUtilities]  - Magic
-[19:42:55] [Server thread/INFO]: [WolfyUtilities] Create & Init Plugin integrations: 
-[19:42:55] [Server thread/INFO]: [WolfyUtilities] Register API references
-[19:42:56] [Server thread/INFO]: [WolfyUtilities] Loading stored Custom Items
-[19:42:56] [Server thread/INFO]: [WolfyUtilities] Loading Creative Mode Tabs
-[19:42:56] [Server thread/INFO]: [SuperEnchants] Enabling SuperEnchants v2.6.7
-[19:42:56] [Server thread/INFO]: [SuperEnchants] Loading SuperEnchants v2.6.7 by Aznos
-[19:42:56] [Server thread/INFO]: [SuperEnchants] -------------------------------------
-[19:42:56] [Server thread/INFO]: [SuperEnchants] If you'd like to support SuperEnchants and you find it useful, please consider donating at: https://buymeacoffee.com/aznos
-[19:42:56] [Server thread/INFO]: [SuperEnchants] -------------------------------------
-[19:42:56] [Server thread/INFO]: [SuperEnchants] Disregard any potential warnings above, they are not errors and your plugin will work as intended.
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/WARN]: Nag author(s): '[]' of 'SuperEnchants v2.6.7' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[19:42:56] [Server thread/WARN]: [SuperEnchants] Could not save lang_en.yml to plugins/SuperEnchants/lang_en.yml because lang_en.yml already exists.
-[19:42:56] [Server thread/WARN]: [SuperEnchants] Could not save lang_de.yml to plugins/SuperEnchants/lang_de.yml because lang_de.yml already exists.
-[19:42:56] [Server thread/WARN]: [SuperEnchants] Could not save lang_pt.yml to plugins/SuperEnchants/lang_pt.yml because lang_pt.yml already exists.
-[19:42:56] [Server thread/WARN]: [SuperEnchants] Could not save lang_es.yml to plugins/SuperEnchants/lang_es.yml because lang_es.yml already exists.
-[19:42:56] [Server thread/WARN]: [SuperEnchants] Could not save lang_fr.yml to plugins/SuperEnchants/lang_fr.yml because lang_fr.yml already exists.
-[19:42:56] [Server thread/WARN]: [SuperEnchants] Could not save lang_nl.yml to plugins/SuperEnchants/lang_nl.yml because lang_nl.yml already exists.
-[19:42:56] [Server thread/INFO]: [GlowingItems] Enabling GlowingItems v1.0.3
-[19:42:56] [Server thread/INFO]: [GlowingItems] GlowingItems is now enabled, thank you for using my Plugin!
-[19:42:56] [Server thread/INFO]: [GlowingItems] You can find instructions here: https://codingcat2468.github.io/minecraft/2024/04/07/glowing-items-plugin.html
-[19:42:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:42:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:42:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:42:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:42:56] [Server thread/INFO]: Preparing level "world"
-[19:42:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:42:58] [Server thread/INFO]: Time elapsed: 1047 ms
-[19:42:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[19:42:58] [Server thread/INFO]: Time elapsed: 274 ms
-[19:42:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[19:42:58] [Server thread/INFO]: Time elapsed: 173 ms
-[19:42:58] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.1.1
-[19:42:58] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[19:42:58] [Server thread/INFO]: [NBTAPI] Enabling NBTAPI v2.14.0
-[19:42:58] [Server thread/INFO]: [NBTAPI] Checking bindings...
-[19:42:58] [Server thread/INFO]: [NBTAPI] All Classes were able to link!
-[19:42:58] [Server thread/INFO]: [NBTAPI] All Methods were able to link!
-[19:42:58] [Server thread/INFO]: [NBTAPI] Running NBT reflection test...
-[19:42:58] [Server thread/INFO]: [NBTAPI] Success! This version of NBT-API is compatible with your server.
-[19:42:58] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[19:42:59] [Server thread/INFO]: [SCore] Enabling SCore v5.24.12.3
-[19:42:59] [Server thread/INFO]: ================ SCore ================
-[19:42:59] [Server thread/INFO]: SCore is running on Folia
-[19:42:59] [Server thread/INFO]: SCore is running on Paper or fork
-[19:42:59] [Server thread/INFO]: SCore Version of the server 1.21-130-b1b5d4c (MC: 1.21) !
-[19:42:59] [Server thread/INFO]: SCore ExecutableItems hooked !  (7.24.12.3) Load After
-[19:42:59] [Server thread/INFO]: SCore ProtocolLib hooked !
-[19:42:59] [Server thread/INFO]: SCore Locale setup: EN
-[19:42:59] [Server thread/INFO]: SCore NBTAPI hooked !  (2.14.0)  Load Before
-[19:42:59] [Server thread/INFO]: SCore CustomCrafting hooked !  (4.16.11) Load After
-[19:42:59] [Server thread/INFO]: SCore Language of the editor setup on EN
-[19:43:00] [Server thread/INFO]: SCore Language for in-game messages setup on EN
-[19:43:00] [Server thread/INFO]: SCore will connect to the database hosted: In Local
-[19:43:00] [Server thread/INFO]: SCore Connection to the db...
-[19:43:00] [Server thread/INFO]: SCore will connect to the database hosted: In Local
-[19:43:00] [Server thread/INFO]: SCore Creating table SecurityOP if not exists...
-[19:43:00] [Server thread/INFO]: SCore Creating table Commands if not exists...
-[19:43:00] [Server thread/INFO]: SCore Creating table Cooldowns if not exists...
-[19:43:00] [Server thread/INFO]: SCore Creating table Commands Player if not exists...
-[19:43:00] [Server thread/INFO]: SCore Creating table Commands Entity if not exists...
-[19:43:00] [Server thread/INFO]: SCore Creating table Commands Block if not exists...
-[19:43:00] [Server thread/INFO]: SCore Creating table UsePerDay if not exists...
-[19:43:01] [Server thread/INFO]: SCore SCore loaded 1 variables from local files !
-[19:43:01] [Server thread/INFO]: SCore SCore loaded 0 delayed commands saved
-[19:43:01] [Server thread/INFO]: ================ SCore ================
-[19:43:01] [Server thread/INFO]: [QualityArmory] Enabling QualityArmory v2.0.16
-[19:43:01] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21! Trying to find NMS support
-[19:43:01] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
-[19:43:01] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'QualityArmory' to create a bStats instance!
-[19:43:01] [Server thread/INFO]: [QualityArmory] -Loaded 11 Ammo types.
-[19:43:01] [Server thread/INFO]: [QualityArmory] -Loaded 16 Misc.
-[19:43:01] [Server thread/INFO]: [QualityArmory] -Loaded 70 Gun types.
-[19:43:01] [Server thread/INFO]: [QualityArmory] -Loading Attachment: uzicorn
-[19:43:01] [Server thread/INFO]: [QualityArmory] -Loading Attachment: p30silenced
-[19:43:01] [Server thread/INFO]: [QualityArmory] -Loading Attachment: awpasiimov
-[19:43:01] [Server thread/INFO]: [QualityArmory] -Loaded 3 Attachment types.
-[19:43:01] [Server thread/INFO]: [QualityArmory] -Loaded 4 Armor types.
-[19:43:02] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.5.1-SNAPSHOT
-[19:43:02] [Server thread/INFO]: [SimpleCrops] Enabling SimpleCrops v2.1.5-BETA
-[19:43:02] [Server thread/INFO]: [SimpleCrops] Database initialization.
-[19:43:02] [Server thread/INFO]: [eu.virtusdevelops.simplecrops.hikari.HikariDataSource] Storage - Starting...
-[19:43:02] [Server thread/INFO]: [eu.virtusdevelops.simplecrops.hikari.HikariDataSource] Storage - Start completed.
-[19:43:02] [Server thread/INFO]: Loaded 1 crops from database.
-[19:43:03] [Server thread/INFO]: Loaded 0 base blocks from database.
-[19:43:03] [Server thread/INFO]: [SimpleCrops] 
+[21:39:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Blindness' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'HealthSteal' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bleed' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lightning' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Teleport' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Jetpack' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Explosive' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Excavator' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Autosmelt' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Freeze' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Confusion' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Multishoot' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Dash' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bloodlust' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Shockwave' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Veinminer' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'XPBoost' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Enlightened' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'EnderAura' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Frostbite' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Leap' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Speed' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Magnet' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Growth' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Detonate' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Backstabber' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Piercing' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Deflecting' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bait' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Angler' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Abiding' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Disarm' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Archer' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Farmer' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Decapitation' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Dismantle' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Famine' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Spotlight' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Feast' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Updraft' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lavawalker' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Doublestrike' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Timber' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Missile' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Critical' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Inflame' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Nightowl' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Headshot' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'ArrowStorm' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Hook' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Gravity' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Adrenaline' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Resilience' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Coward' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Weaken' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Withering' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Heavy' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lightweight' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Blastoff' registered successfully.
+[21:39:09] [ServerMain/INFO]: [SuperEnchants] All custom enchantments registered successfully!
+[21:39:10] [ServerMain/INFO]: Loaded 1290 recipes
+[21:39:10] [ServerMain/INFO]: Loaded 1399 advancements
+[21:39:10] [Server thread/INFO]: Starting minecraft server version 1.21
+[21:39:10] [Server thread/INFO]: Loading properties
+[21:39:10] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[21:39:10] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[21:39:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:39:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:39:10] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[21:39:11] [Server thread/INFO]: Default game type: SURVIVAL
+[21:39:11] [Server thread/INFO]: Generating keypair
+[21:39:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:39:11] [Server thread/INFO]: Using epoll channel type
+[21:39:11] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:39:11] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[21:39:12] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loading 3 libraries... please wait
+[21:39:13] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/com/google/inject/guice/5.1.0/guice-5.1.0.jar
+[21:39:13] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/javax/inject/javax.inject/1/javax.inject-1.jar
+[21:39:13] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+[21:39:13] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/com/google/guava/guava/30.1-jre/guava-30.1-jre.jar
+[21:39:13] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
+[21:39:13] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+[21:39:13] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+[21:39:13] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.jar
+[21:39:13] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/com/google/errorprone/error_prone_annotations/2.3.4/error_prone_annotations-2.3.4.jar
+[21:39:13] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar
+[21:39:13] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+[21:39:13] [Server thread/INFO]: [SpigotLibraryLoader] [WolfyUtilities] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar
+[21:39:16] [Server thread/INFO]: [me.wolfyscript.lib.org.reflections.Reflections] Reflections took 875 ms to scan 1 urls, producing 924 keys and 3724 values
+[21:39:17] [Server thread/INFO]: [WolfyUtilities] Register Default StackIdentifiers
+[21:39:17] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loading 2 libraries... please wait
+[21:39:17] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/com/zaxxer/HikariCP/4.0.3/HikariCP-4.0.3.jar
+[21:39:17] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
+[21:39:17] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/org/xerial/sqlite-jdbc/3.46.1.0/sqlite-jdbc-3.46.1.0.jar
+[21:39:17] [Server thread/INFO]: [SpigotLibraryLoader] [Waypoints] Loading 3 libraries... please wait
+[21:39:17] [Server thread/INFO]: [SpigotLibraryLoader] [Waypoints] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/org/jetbrains/kotlin/kotlin-stdlib/2.0.21/kotlin-stdlib-2.0.21.jar
+[21:39:17] [Server thread/INFO]: [SpigotLibraryLoader] [Waypoints] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
+[21:39:17] [Server thread/INFO]: [SpigotLibraryLoader] [Waypoints] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/org/jetbrains/kotlin/kotlin-reflect/2.0.21/kotlin-reflect-2.0.21.jar
+[21:39:17] [Server thread/INFO]: [SpigotLibraryLoader] [Waypoints] Loaded library /workspaces/Devil-Yuca-Remake/servidor_minecraft/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.jar
+[21:39:19] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.1.1
+[21:39:19] [Server thread/INFO]: [ViaVersion] ViaVersion 5.1.1 is now loaded. Registering protocol transformers and injecting...
+[21:39:20] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[21:39:20] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[21:39:21] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[21:39:21] [Server thread/INFO]: [NBTAPI] Loading server plugin NBTAPI v2.14.0
+[21:39:21] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21! Trying to find NMS support
+[21:39:21] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
+[21:39:21] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'NBTAPI' to create a bStats instance!
+[21:39:21] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[21:39:21] [Thread-6/WARN]: [NBTAPI] [NBTAPI] The NBT-API in 'NBTAPI' seems to be outdated!
+[21:39:21] [Thread-6/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.14.0' Newest Version: 2.14.1'
+[21:39:21] [Thread-6/WARN]: [NBTAPI] [NBTAPI] Please update the NBTAPI or the plugin that contains the api(nag the mod author when the newest release has an old version, not the NBTAPI dev)!
+[21:39:23] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[21:39:23] [Server thread/INFO]: [floodgate] Took 1,615ms to boot Floodgate
+[21:39:23] [Server thread/INFO]: [SCore] Loading server plugin SCore v5.24.12.3
+[21:39:23] [Server thread/INFO]: [Magic] Loading server plugin Magic v10.9.4-1bea7e8
+[21:39:24] [Server thread/INFO]: [Magic] Loading modern compatibility layer for server version 1.21.0
+[21:39:24] [Server thread/INFO]: [Magic] Async chunk loading API found
+[21:39:24] [Server thread/INFO]: [Magic] Chat component API found
+[21:39:24] [Server thread/INFO]: [QualityArmory] Loading server plugin QualityArmory v2.0.16
+[21:39:24] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.5.1-SNAPSHOT
+[21:39:25] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[21:39:25] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[21:39:25] [Server thread/INFO]: [WolfyUtilities] Loading server plugin WolfyUtilities v4.17-beta.7
+[21:39:25] [Server thread/INFO]: [WolfyUtilities] Register JSON de-/serializers
+[21:39:25] [Server thread/INFO]: [WolfyUtilities] Register JSON Operators
+[21:39:25] [Server thread/INFO]: [WolfyUtilities] Register JSON Value Providers
+[21:39:25] [Server thread/INFO]: [WolfyUtilities] Register CustomItem NBT Checks
+[21:39:25] [Server thread/INFO]: [WolfyUtilities] Register CustomItem Actions
+[21:39:25] [Server thread/INFO]: [WolfyUtilities] Register CustomItem Events
+[21:39:25] [Server thread/INFO]: [WolfyUtilities] Register Particle Animators
+[21:39:25] [Server thread/INFO]: [WolfyUtilities] Register Particle Shapes
+[21:39:26] [Server thread/INFO]: [WolfyUtilities] Register Particle Timers
+[21:39:26] [Server thread/INFO]: [WolfyUtilities] Register Custom Block Data
+[21:39:26] [Server thread/INFO]: [WolfyUtilities] Register Custom Player Data
+[21:39:26] [Server thread/INFO]: [WolfyUtilities] Register NBT Query Nodes
+[21:39:26] [Server thread/INFO]: [SimpleCrops] Loading server plugin SimpleCrops v2.1.5-BETA
+[21:39:26] [Server thread/INFO]: [Brewery] Loading server plugin Brewery v3.1.1
+[21:39:26] [Server thread/INFO]: [SuperEnchants] Loading server plugin SuperEnchants v2.6.7
+[21:39:26] [Server thread/INFO]: [TeaWaystones] Loading server plugin TeaWaystones v1.0.5
+[21:39:26] [Server thread/INFO]: [Sleeper] Loading server plugin Sleeper v1.5.3
+[21:39:26] [Server thread/INFO]: [Elevator] Loading server plugin Elevator v1.2
+[21:39:26] [Server thread/INFO]: [ImageFrame] Loading server plugin ImageFrame v1.7.9.0
+[21:39:26] [Server thread/INFO]: [InfernalMobs] Loading server plugin InfernalMobs v6.8
+[21:39:26] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.2.6
+[21:39:26] [Server thread/INFO]: [RottenFlesh2Leather] Loading server plugin RottenFlesh2Leather v1.21-v1.0
+[21:39:26] [Server thread/INFO]: [ReviveMe] Loading server plugin ReviveMe v0.4.4
+[21:39:26] [Server thread/INFO]: [BackpackPlus] Loading server plugin BackpackPlus v1.4.5
+[21:39:26] [Server thread/INFO]: [ExecutableItems] Loading server plugin ExecutableItems v7.24.12.3
+[21:39:26] [Server thread/INFO]: [Waypoints] Loading server plugin Waypoints v4.5.5
+[21:39:26] [Server thread/INFO]: [InteractionVisualizer] Loading server plugin InteractionVisualizer v1.18.10.0
+[21:39:26] [Server thread/INFO]: [GlowingItems] Loading server plugin GlowingItems v1.0.3
+[21:39:26] [Server thread/INFO]: [BetterChairs] Loading server plugin BetterChairs v1.12.0
+[21:39:26] [Server thread/INFO]: [CustomCrafting] Loading server plugin CustomCrafting v4.16.11
+[21:39:26] [Server thread/INFO]: [CustomCrafting] WolfyUtils API: v4.17-beta.7
+[21:39:26] [Server thread/INFO]: [CustomCrafting] CustomCrafting: v4.16.11
+[21:39:26] [Server thread/INFO]: [CustomCrafting] Environment   : PROD
+[21:39:26] [Server thread/INFO]: [CustomCrafting] Registering CustomItem Data
+[21:39:26] [Server thread/INFO]: [CustomCrafting] Registering Custom Block Data
+[21:39:26] [Server thread/INFO]: [CustomCrafting] Registering Result Extensions
+[21:39:26] [Server thread/INFO]: [CustomCrafting] Registering Result Merge Adapters
+[21:39:26] [Server thread/INFO]: [CustomCrafting] Registering Recipe Conditions
+[21:39:26] [Server thread/INFO]: [CustomCrafting] Registering Recipe Types
+[21:39:26] [Server thread/INFO]: [CustomCrafting] Registering Anvil Recipe Tasks
+[21:39:26] [Server thread/INFO]: [CustomCrafting] Registering Type Registries
+[21:39:26] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.16.0
+[21:39:26] [Server thread/INFO]: [AxGraves] Loading library commons-math3
+[21:39:26] [Server thread/INFO]: [AxGraves] Loading library caffeine
+[21:39:26] [Server thread/INFO]: [PlayerCarry] Loading server plugin PlayerCarry v1.1
+[21:39:26] [Server thread/INFO]: [Streamotes] Loading server plugin Streamotes v1.2.3
+[21:39:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:39:26] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[21:39:27] [Server thread/INFO]: [Magic] Enabling Magic v10.9.4-1bea7e8
+[21:39:27] [Server thread/INFO]: [Magic] EffectLib initialized
+[21:39:27] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[21:39:35] [Server thread/INFO]: [Magic] Loaded 0 attributes
+[21:39:35] [Server thread/INFO]: [Magic] Wand crafting is enabled
+[21:39:35] [Server thread/INFO]: [Magic] Skin-based spell icons disabled
+[21:39:35] [Server thread/INFO]: [Magic] Registered attributes: [target_fall_distance, explosive, minecraft:wind_charged, regeneration, projectile_protection, bowpower, freeze, famine, humidity, jump, lightning, target_luck, blindness, absorption, target_armor, minecraft:weaving, silk_touch, unluck, invisibility, target_health_max, air_max, slow, mana_max, doublestrike, enlightened, angler, weeks, swift_sneak, fast_digging, enderaura, temperature, riptide, resilience, health_boost, levitation, increase_damage, density, poison, binding_curse, yaw, dismantle, mana, glowing, target_health, jetpack, archer, days, infinity, spotlight, arrowstorm, bad_omen, thorns, hero_of_the_village, target_hunger, bloodlust, smite, minecraft:raid_omen, feather_falling, luck_of_the_sea, nightowl, knockback_resistance, conduit_power, missile, target_air, bane_of_arthropods, soul_speed, water_breathing, fall_distance, quick_charge, bleed, hunger, feast, slow_falling, difficulty, armor, wind_burst, fulltime, confusion, blast_protection, harm, speed, damage_resistance, excavator, deflecting, inflame, minecraft:oozing, hours, looting, weaken, target_air_max, magnet, movement_speed, play_time, depth_strider, gravity, xp, farmer, time, flame, wither, xpboost, abiding, respiration, degrees, seconds, blastoff, hook, channeling, multishoot, target_pitch, pitch, timber, sharpness, darkness, health_max, efficiency, target_light, loyalty, slow_digging, fire_resistance, detonate, heavy, moon, light, bowpull, damage, minecraft:trial_omen, mending, epoch, protection, air, lure, punch, headshot, healthsteal, frost_walker, movement_speed_bps, leap, power, veinminer, health, target_temperature, target_humidity, impaling, luck, bait, location_x, unbreaking, location_y, target_mana, attack_damage, knockback, fire_aspect, shockwave, frostbite, saturation, location_z, lavawalker, backstabber, night_vision, level, minutes, coward, disarm, multishot, aqua_affinity, withering, dash, decapitation, damage_dealt, critical, piercing, fire_protection, target_yaw, teleport, dolphins_grace, lightweight, weakness, adrenaline, heal, target_mana_max, autosmelt, breach, fortune, updraft, minecraft:infested, velocity, sweeping_edge, target_location_x, pi, target_location_y, vanishing_curse, target_knockback_resistance, target_location_z, growth]
+[21:39:35] [Server thread/INFO]: [Magic] Loaded 182 icons
+[21:39:36] [Server thread/INFO]: [Magic] Loaded 12 effect lists
+[21:39:36] [Server thread/INFO]: [Magic] Loaded 1403 items
+[21:39:36] [Server thread/INFO]: [Magic] Loaded 199 wands
+[21:39:36] [Server thread/INFO]: [Magic] Loaded 2 kits
+[21:39:36] [Server thread/INFO]: [Magic] Loaded 10 classes
+[21:39:36] [Server thread/INFO]: [Magic] Loaded 5 classes
+[21:39:36] [Server thread/INFO]: [Magic] Loaded 48 mob templates
+[21:39:36] [Server thread/INFO]: [Magic] Loaded 8 automata templates
+[21:39:36] [Server thread/INFO]: [Magic] Loaded 0 customized worlds
+[21:39:36] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:39:36] [Server thread/INFO]: [Magic] Activated BStats
+[21:39:36] [Server thread/INFO]: [Magic] MobArena not found
+[21:39:36] [Server thread/INFO]: [Magic] LibsDisguises not found, magic mob disguises will not be available
+[21:39:36] [Server thread/INFO]: [Magic] ModelEngine integration disabled
+[21:39:36] [Server thread/INFO]: Magic checking resource pack for updates: http://rp.elmakers.com/Magic-RP-1.20.4.zip
+[21:39:36] [Server thread/INFO]: [WolfyUtilities] Enabling WolfyUtilities v4.17-beta.7
+[21:39:36] [Server thread/INFO]: [WolfyUtilities] Minecraft version: 1.21.0
+[21:39:36] [Server thread/INFO]: [WolfyUtilities] WolfyUtils version: 4.17.0.0
+[21:39:36] [Server thread/INFO]: [WolfyUtilities] Environment: PROD
+[21:39:36] [Server thread/INFO]: [WolfyUtilities] Loading Plugin integrations: 
+[21:39:36] [Server thread/INFO]: [WolfyUtilities]  - ExecutableItems
+[21:39:36] [Server thread/INFO]: [WolfyUtilities]  - Magic
+[21:39:36] [Server thread/INFO]: [WolfyUtilities] Create & Init Plugin integrations: 
+[21:39:36] [Server thread/INFO]: [WolfyUtilities] Register API references
+[21:39:37] [Server thread/INFO]: [WolfyUtilities] Loading stored Custom Items
+[21:39:37] [Server thread/INFO]: [WolfyUtilities] Loading Creative Mode Tabs
+[21:39:37] [Server thread/INFO]: [SuperEnchants] Enabling SuperEnchants v2.6.7
+[21:39:37] [Server thread/INFO]: [SuperEnchants] Loading SuperEnchants v2.6.7 by Aznos
+[21:39:37] [Server thread/INFO]: [SuperEnchants] -------------------------------------
+[21:39:37] [Server thread/INFO]: [SuperEnchants] If you'd like to support SuperEnchants and you find it useful, please consider donating at: https://buymeacoffee.com/aznos
+[21:39:37] [Server thread/INFO]: [SuperEnchants] -------------------------------------
+[21:39:37] [Server thread/INFO]: [SuperEnchants] Disregard any potential warnings above, they are not errors and your plugin will work as intended.
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/WARN]: Nag author(s): '[]' of 'SuperEnchants v2.6.7' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[21:39:37] [Server thread/WARN]: [SuperEnchants] Could not save lang_en.yml to plugins/SuperEnchants/lang_en.yml because lang_en.yml already exists.
+[21:39:37] [Server thread/WARN]: [SuperEnchants] Could not save lang_de.yml to plugins/SuperEnchants/lang_de.yml because lang_de.yml already exists.
+[21:39:37] [Server thread/WARN]: [SuperEnchants] Could not save lang_pt.yml to plugins/SuperEnchants/lang_pt.yml because lang_pt.yml already exists.
+[21:39:37] [Server thread/WARN]: [SuperEnchants] Could not save lang_es.yml to plugins/SuperEnchants/lang_es.yml because lang_es.yml already exists.
+[21:39:37] [Server thread/WARN]: [SuperEnchants] Could not save lang_fr.yml to plugins/SuperEnchants/lang_fr.yml because lang_fr.yml already exists.
+[21:39:37] [Server thread/WARN]: [SuperEnchants] Could not save lang_nl.yml to plugins/SuperEnchants/lang_nl.yml because lang_nl.yml already exists.
+[21:39:37] [Server thread/INFO]: [GlowingItems] Enabling GlowingItems v1.0.3
+[21:39:37] [Server thread/INFO]: [GlowingItems] GlowingItems is now enabled, thank you for using my Plugin!
+[21:39:37] [Server thread/INFO]: [GlowingItems] You can find instructions here: https://codingcat2468.github.io/minecraft/2024/04/07/glowing-items-plugin.html
+[21:39:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:39:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:39:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:39:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:39:37] [Server thread/INFO]: Preparing level "world"
+[21:39:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:39:38] [Server thread/INFO]: Time elapsed: 1209 ms
+[21:39:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:39:39] [Server thread/INFO]: Time elapsed: 272 ms
+[21:39:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:39:39] [Server thread/INFO]: Time elapsed: 172 ms
+[21:39:39] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.1.1
+[21:39:39] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[21:39:39] [Server thread/INFO]: [NBTAPI] Enabling NBTAPI v2.14.0
+[21:39:39] [Server thread/INFO]: [NBTAPI] Checking bindings...
+[21:39:39] [Server thread/INFO]: [NBTAPI] All Classes were able to link!
+[21:39:39] [Server thread/INFO]: [NBTAPI] All Methods were able to link!
+[21:39:39] [Server thread/INFO]: [NBTAPI] Running NBT reflection test...
+[21:39:39] [Server thread/INFO]: [NBTAPI] Success! This version of NBT-API is compatible with your server.
+[21:39:39] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[21:39:40] [Server thread/INFO]: [SCore] Enabling SCore v5.24.12.3
+[21:39:40] [Server thread/INFO]: ================ SCore ================
+[21:39:40] [Server thread/INFO]: SCore is running on Folia
+[21:39:40] [Server thread/INFO]: SCore is running on Paper or fork
+[21:39:40] [Server thread/INFO]: SCore Version of the server 1.21-130-b1b5d4c (MC: 1.21) !
+[21:39:40] [Server thread/INFO]: SCore ExecutableItems hooked !  (7.24.12.3) Load After
+[21:39:40] [Server thread/INFO]: SCore ProtocolLib hooked !
+[21:39:40] [Server thread/INFO]: SCore Locale setup: EN
+[21:39:40] [Server thread/INFO]: SCore NBTAPI hooked !  (2.14.0)  Load Before
+[21:39:40] [Server thread/INFO]: SCore CustomCrafting hooked !  (4.16.11) Load After
+[21:39:40] [Server thread/INFO]: SCore Language of the editor setup on EN
+[21:39:40] [Server thread/INFO]: SCore Language for in-game messages setup on EN
+[21:39:40] [Server thread/INFO]: SCore will connect to the database hosted: In Local
+[21:39:41] [Server thread/INFO]: SCore Connection to the db...
+[21:39:41] [Server thread/INFO]: SCore will connect to the database hosted: In Local
+[21:39:41] [Server thread/INFO]: SCore Creating table SecurityOP if not exists...
+[21:39:41] [Server thread/INFO]: SCore Creating table Commands if not exists...
+[21:39:41] [Server thread/INFO]: SCore Creating table Cooldowns if not exists...
+[21:39:41] [Server thread/INFO]: SCore Creating table Commands Player if not exists...
+[21:39:41] [Server thread/INFO]: SCore Creating table Commands Entity if not exists...
+[21:39:41] [Server thread/INFO]: SCore Creating table Commands Block if not exists...
+[21:39:41] [Server thread/INFO]: SCore Creating table UsePerDay if not exists...
+[21:39:42] [Server thread/INFO]: SCore SCore loaded 1 variables from local files !
+[21:39:42] [Server thread/INFO]: SCore SCore loaded 0 delayed commands saved
+[21:39:42] [Server thread/INFO]: ================ SCore ================
+[21:39:42] [Server thread/INFO]: [QualityArmory] Enabling QualityArmory v2.0.16
+[21:39:42] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21! Trying to find NMS support
+[21:39:42] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
+[21:39:42] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'QualityArmory' to create a bStats instance!
+[21:39:42] [Server thread/INFO]: [QualityArmory] -Loaded 11 Ammo types.
+[21:39:42] [Server thread/INFO]: [QualityArmory] -Loaded 16 Misc.
+[21:39:42] [Server thread/INFO]: [QualityArmory] -Loaded 70 Gun types.
+[21:39:42] [Server thread/INFO]: [QualityArmory] -Loading Attachment: uzicorn
+[21:39:42] [Server thread/INFO]: [QualityArmory] -Loading Attachment: p30silenced
+[21:39:42] [Server thread/INFO]: [QualityArmory] -Loading Attachment: awpasiimov
+[21:39:42] [Server thread/INFO]: [QualityArmory] -Loaded 3 Attachment types.
+[21:39:42] [Server thread/INFO]: [QualityArmory] -Loaded 4 Armor types.
+[21:39:43] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.5.1-SNAPSHOT
+[21:39:43] [Server thread/INFO]: [SimpleCrops] Enabling SimpleCrops v2.1.5-BETA
+[21:39:43] [Server thread/INFO]: [SimpleCrops] Database initialization.
+[21:39:43] [Server thread/INFO]: [eu.virtusdevelops.simplecrops.hikari.HikariDataSource] Storage - Starting...
+[21:39:43] [Server thread/INFO]: [eu.virtusdevelops.simplecrops.hikari.HikariDataSource] Storage - Start completed.
+[21:39:43] [Server thread/INFO]: Loaded 1 crops from database.
+[21:39:43] [Server thread/INFO]: Loaded 0 base blocks from database.
+[21:39:44] [Server thread/INFO]: [SimpleCrops] 
  ____   ___ 
 / ___) / __)   
 \___ \( (__  
@@ -412,377 +362,287 @@
 -> Version: 2.1.5-BETA 
 -> Server API version: UNKNOWN 
 -> Core version: 1.0.9.9.2
-[19:43:03] [Server thread/INFO]: Using the legacy configurations because version is UNKNOWN
-[19:43:04] [Server thread/INFO]: [Brewery] Enabling Brewery v3.1.1
-[19:43:04] [Server thread/INFO]: [Brewery] ERROR: absinthe: Unknown Material: Grass
-[19:43:04] [Server thread/INFO]: [Brewery] ERROR: No ingredients for: Absinthe
-[19:43:04] [Server thread/INFO]: [Brewery] ERROR: Loading the Recipe with id: 'absinthe' failed!
-[19:43:04] [Server thread/INFO]: [Brewery] ERROR: gr_absinthe: Unknown Material: Grass
-[19:43:04] [Server thread/INFO]: [Brewery] ERROR: No ingredients for: Green Absinthe
-[19:43:04] [Server thread/INFO]: [Brewery] ERROR: Loading the Recipe with id: 'gr_absinthe' failed!
-[19:43:04] [Server thread/INFO]: [Brewery] ERROR: potato_soup: Unknown Material: Grass
-[19:43:04] [Server thread/INFO]: [Brewery] ERROR: No ingredients for: Potato soup
-[19:43:04] [Server thread/INFO]: [Brewery] ERROR: Loading the Recipe with id: 'potato_soup' failed!
-[19:43:04] [Server thread/INFO]: [Brewery] ERROR: grass: Unknown Material: Grass
-[19:43:04] [Server thread/INFO]: [Brewery] ERROR: No ingredients for Cauldron-Recipe: Boiled herbs
-[19:43:04] [Server thread/INFO]: [Brewery] ERROR: Loading the Cauldron-Recipe with id: 'grass' failed!
-[19:43:04] [Server thread/INFO]: [Brewery] ERROR: poi_grass: Unknown Material: Grass
-[19:43:04] [Server thread/INFO]: [Brewery] ERROR: No ingredients for Cauldron-Recipe: Boiled acidy herbs
-[19:43:04] [Server thread/INFO]: [Brewery] ERROR: Loading the Cauldron-Recipe with id: 'poi_grass' failed!
-[19:43:04] [Server thread/INFO]: [Brewery] Brewery enabled!
-[19:43:04] [Server thread/INFO]: [TeaWaystones] Enabling TeaWaystones v1.0.5
-[19:43:04] [Server thread/INFO]: [Sleeper] Enabling Sleeper v1.5.3
-[19:43:04] [Server thread/INFO]: [Sleeper] Sleeper Version 1.5.3 Has Been Enabled!
-[19:43:04] [Server thread/INFO]: [Elevator] Enabling Elevator v1.2
-[19:43:04] [Server thread/INFO]: [Elevator] [STDOUT] Simple Elevator is a successful start !
-[19:43:04] [Server thread/WARN]: Nag author(s): '[Lamdis]' of 'Elevator v1.2' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
-[19:43:04] [Server thread/INFO]: [ImageFrame] Enabling ImageFrame v1.7.9.0
-[19:43:04] [pool-19-thread-1/WARN]: [floodgate] 
+[21:39:44] [Server thread/INFO]: Using the legacy configurations because version is UNKNOWN
+[21:39:45] [Server thread/INFO]: [Brewery] Enabling Brewery v3.1.1
+[21:39:45] [Server thread/INFO]: [Brewery] ERROR: absinthe: Unknown Material: Grass
+[21:39:45] [Server thread/INFO]: [Brewery] ERROR: No ingredients for: Absinthe
+[21:39:45] [Server thread/INFO]: [Brewery] ERROR: Loading the Recipe with id: 'absinthe' failed!
+[21:39:45] [Server thread/INFO]: [Brewery] ERROR: gr_absinthe: Unknown Material: Grass
+[21:39:45] [Server thread/INFO]: [Brewery] ERROR: No ingredients for: Green Absinthe
+[21:39:45] [Server thread/INFO]: [Brewery] ERROR: Loading the Recipe with id: 'gr_absinthe' failed!
+[21:39:45] [Server thread/INFO]: [Brewery] ERROR: potato_soup: Unknown Material: Grass
+[21:39:45] [Server thread/INFO]: [Brewery] ERROR: No ingredients for: Potato soup
+[21:39:45] [Server thread/INFO]: [Brewery] ERROR: Loading the Recipe with id: 'potato_soup' failed!
+[21:39:45] [Server thread/INFO]: [Brewery] ERROR: grass: Unknown Material: Grass
+[21:39:45] [Server thread/INFO]: [Brewery] ERROR: No ingredients for Cauldron-Recipe: Boiled herbs
+[21:39:45] [Server thread/INFO]: [Brewery] ERROR: Loading the Cauldron-Recipe with id: 'grass' failed!
+[21:39:45] [Server thread/INFO]: [Brewery] ERROR: poi_grass: Unknown Material: Grass
+[21:39:45] [Server thread/INFO]: [Brewery] ERROR: No ingredients for Cauldron-Recipe: Boiled acidy herbs
+[21:39:45] [Server thread/INFO]: [Brewery] ERROR: Loading the Cauldron-Recipe with id: 'poi_grass' failed!
+[21:39:45] [Server thread/INFO]: [Brewery] Brewery enabled!
+[21:39:45] [Server thread/INFO]: [TeaWaystones] Enabling TeaWaystones v1.0.5
+[21:39:45] [Server thread/INFO]: [Sleeper] Enabling Sleeper v1.5.3
+[21:39:45] [Server thread/INFO]: [Sleeper] Sleeper Version 1.5.3 Has Been Enabled!
+[21:39:45] [Server thread/INFO]: [Elevator] Enabling Elevator v1.2
+[21:39:45] [Server thread/INFO]: [Elevator] [STDOUT] Simple Elevator is a successful start !
+[21:39:45] [Server thread/WARN]: Nag author(s): '[Lamdis]' of 'Elevator v1.2' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[21:39:45] [Server thread/INFO]: [ImageFrame] Enabling ImageFrame v1.7.9.0
+[21:39:45] [pool-16-thread-1/WARN]: [floodgate] 
 **********************************
 * You specified an empty prefix in your Floodgate config for Bedrock players!
 * Should a Java player join and a Bedrock player join with the same username, unwanted results and conflicts will happen!
 * We strongly recommend using . as the prefix, but other alternatives that will not conflict include: +, - and *
 **********************************
-[19:43:04] [Server thread/INFO]: [ImageFrame] ImageFrame has hooked into ViaVersion!
-[19:43:05] [Server thread/INFO]: Map color cache not found, building it in the background
-[19:43:05] [Server thread/INFO]: [ImageFrame] ImageFrame has been Enabled!
-[19:43:05] [Server thread/INFO]: [InfernalMobs] Enabling InfernalMobs v6.8
-[19:43:05] [Server thread/INFO]: [InfernalMobs] Registered Events.
-[19:43:05] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.2.6
-[19:43:05] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
-[19:43:06] [Server thread/INFO]: [AuraSkills] Successfully registered hook ProtocolLib
-[19:43:06] [Server thread/INFO]: [AuraSkills] Loaded 150 config options in 44 ms
-[19:43:06] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21! Trying to find NMS support
-[19:43:06] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
-[19:43:06] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
-[19:43:06] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
-[19:43:07] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
-[19:43:07] [Server thread/INFO]: [RottenFlesh2Leather] Enabling RottenFlesh2Leather v1.21-v1.0
-[19:43:07] [Server thread/INFO]: [ReviveMe] Enabling ReviveMe v0.4.4
-[19:43:07] [Server thread/INFO]: ReviveMe enable
-[19:43:07] [Server thread/INFO]: [BackpackPlus] Enabling BackpackPlus v1.4.5
-[19:43:07] [Server thread/INFO]: [BackpackPlus] [Pack] No update needed; current readme is up to date.
-[19:43:07] [Server thread/INFO]: [BackpackPlus] [Settings] Configuration loaded successfully. No missing fields detected.
-[19:43:07] [Server thread/INFO]: [BackpackPlus] [Database] Configuration loaded successfully. No missing fields detected.
-[19:43:07] [Server thread/INFO]: [BackpackPlus] [Database] SQLite Successfully connected to database
-[19:43:07] [Server thread/INFO]: [BackpackPlus] Language used: eng
-[19:43:07] [Server thread/INFO]: [ExecutableItems] Enabling ExecutableItems v7.24.12.3
-[19:43:07] [Server thread/INFO]: ================ ExecutableItems ================
-[19:43:08] [Server thread/ERROR]: [ExecutableItems] Invalid world: myWorld in the option disableItemsPerWorld
-[19:43:08] [Server thread/ERROR]: [ExecutableItems] Invalid world: myWorld2 in the option disableItemsPerWorld
-[19:43:10] [Server thread/INFO]: ExecutableItems Amount of Executable Items configurations loaded: 18
-[19:43:10] [Server thread/INFO]: ExecutableItems Items with display conditions :  
-[19:43:10] [Server thread/INFO]: ================ ExecutableItems ================
-[19:43:10] [Server thread/INFO]: [WolfyUtilities] Enabled plugin integration for ExecutableItems
-[19:43:10] [Server thread/INFO]: [Waypoints] Enabling Waypoints v4.5.5
-[19:43:11] [Server thread/INFO]: [InteractionVisualizer] Enabling InteractionVisualizer v1.18.10.0
-[19:43:15] [Server thread/INFO]: [InteractionVisualizer] Opened Sqlite database successfully
-[19:43:16] [Server thread/INFO]: [InteractionVisualizer] InteractionVisualizer has been enabled!
-[19:43:16] [Server thread/INFO]: [BetterChairs] Enabling BetterChairs v1.12.0
-[19:43:17] [Server thread/INFO]: [CustomCrafting] Enabling CustomCrafting v4.16.11
-[19:43:17] [Server thread/INFO]: [CustomCrafting] Loaded fallback language "en_US" v6.1.0 translated by WolfyScript
-[19:43:17] [Server thread/INFO]: [CustomCrafting] Loaded active language "en_US" v6.1.0 translated by WolfyScript
-[19:43:17] [Server thread/INFO]: [CustomCrafting] ____ _  _ ____ ___ ____ _  _ ____ ____ ____ ____ ___ _ _  _ ____ 
-[19:43:17] [Server thread/INFO]: [CustomCrafting] |    |  | [__   |  |  | |\/| |    |__/ |__| |___  |  | |\ | | __ 
-[19:43:17] [Server thread/INFO]: [CustomCrafting] |___ |__| ___]  |  |__| |  | |___ |  \ |  | |     |  | | \| |__]
-[19:43:17] [Server thread/INFO]: [CustomCrafting]     Version      | v4.16.11
-[19:43:17] [Server thread/INFO]: [CustomCrafting]     WolfyUtils   | v4.17-beta.7
-[19:43:17] [Server thread/INFO]: [CustomCrafting]     Bukkit       | 1.21-130-b1b5d4c (MC: 1.21)(API: 1.21-R0.1-SNAPSHOT)
-[19:43:17] [Server thread/INFO]: [CustomCrafting] 
-[19:43:17] [Server thread/INFO]: [CustomCrafting] Special thanks to my Patrons for supporting this project: 
-[19:43:17] [Server thread/INFO]: [CustomCrafting] Omarlatif, Nat R, Obsidian_Sword, LiveJunye, Mithran, Teddy
-[19:43:17] [Server thread/INFO]: [CustomCrafting] Invictus_Vulpes , Luuk Musch, fioxu, JorshStark, Perny Dev, Charlie
-[19:43:17] [Server thread/INFO]: [CustomCrafting] iachen, whja t, Green Masks, lance fector, Jack Snellings, MineHouse Server
-[19:43:17] [Server thread/INFO]: [CustomCrafting] ------------------------------------------------------------------------
-[19:43:17] [Server thread/INFO]: [CustomCrafting] Detected ProtocolLib... initiating additional features.
-[19:43:17] [Server thread/INFO]: [CustomCrafting] Data destination: LOCAL
-[19:43:17] [Server thread/INFO]: [CustomCrafting] Initiating Inventory GUIs
-[19:43:17] [Server thread/INFO]: [CustomCrafting] Register ItemCreator Tabs
-[19:43:18] [Server thread/INFO]: [CustomCrafting] Loading Recipes & Items
-[19:43:18] [Server thread/INFO]: [CustomCrafting] - - - - [Local Storage] - - - -
-[19:43:18] [Server thread/INFO]: [CustomCrafting] [LOCAL] Using 4 threads
-[19:43:18] [Server thread/INFO]: [CustomCrafting] [LOCAL] Looking through data folder...
-[19:43:18] [Server thread/INFO]: [CustomCrafting] [LOCAL] Loading Items
-[19:43:19] [Server thread/INFO]: [CustomCrafting] [LOCAL] Loading Recipes
-[19:43:19] [Server thread/INFO]: [CustomCrafting] [LOCAL] Loaded 3 recipes in 88ms
-[19:43:19] [Server thread/INFO]: [CustomCrafting] Indexing Recipe Book...
-[19:43:19] [Server thread/INFO]: [CustomCrafting] Indexed Recipe Book!
-[19:43:19] [Server thread/INFO]: [CustomCrafting] ------------------------------------------------------------------------
-[19:43:19] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.16.0
-[19:43:19] [Server thread/INFO]: [PlayerCarry] Enabling PlayerCarry v1.1
-[19:43:19] [Server thread/INFO]: [Streamotes] Enabling Streamotes v1.2.3
-[19:43:19] [Server thread/INFO]: [Streamotes] Config reloaded
-[19:43:19] [Server thread/INFO]: [spark] Starting background profiler...
-[19:43:20] [Server thread/INFO]: [SuperEnchants] [STDOUT] Registering commands
-[19:43:20] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[19:43:20] [Server thread/INFO]: [Geyser-Spigot] 
-[19:43:20] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.5.1-b725 (git-master-d2051c2)
-[19:43:20] [Server thread/INFO]: [Geyser-Spigot] 
-[19:43:20] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[19:43:28] [Worker-Main-1/INFO]: Map color cache build successfully
-[19:43:28] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 3885
-[19:43:28] [Server thread/INFO]: [Geyser-Spigot] Done (8.498s)! Run /geyser help for help!
-[19:43:29] [Server thread/INFO]: Done preparing level "world" (32.420s)
-[19:43:29] [Server thread/INFO]: Running delayed init tasks
-[19:43:29] [Craft Scheduler Thread - 6 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[19:43:29] [Craft Scheduler Thread - 6 - Brewery/INFO]: [Brewery] Background data loading complete.
-[19:43:29] [Craft Scheduler Thread - 11 - InteractionVisualizer/INFO]: [InteractionVisualizer] Downloading and extracting latest Language files...
-[19:43:29] [Craft Scheduler Thread - 10 - BackpackPlus/INFO]: [BackpackPlus] Plugin is up to date.
-[19:43:29] [Craft Scheduler Thread - 8 - ReviveMe/INFO]: [ReviveMe] There is not a new update available.
-[19:43:29] [Craft Scheduler Thread - 6 - Waypoints/INFO]: [Waypoints] The latest version of Waypoints is used
-[19:43:29] [Craft Scheduler Thread - 11 - InteractionVisualizer/INFO]: [InteractionVisualizer] Sucessfully downloaded the latest Language files!
-[19:43:29] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 312 total sources
-[19:43:29] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
-[19:43:30] [Server thread/INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
-[19:43:30] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
-[19:43:30] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
-[19:43:30] [Server thread/INFO]: [Magic] Vault not found, 'currency' cost types unavailable
-[19:43:30] [Server thread/INFO]: [Magic] Registered currencies: item,mana,xp,health,currency,sp,levels,hunger
-[19:43:31] [Server thread/INFO]: [Magic] Loaded 555 spells
-[19:43:31] [Server thread/INFO]: [Magic] Loaded 12 progression paths
-[19:43:32] [Server thread/INFO]: [Magic] Loaded 16 crafting recipes
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_warped_fungus (POTTED_WARPED_FUNGUS isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_red_mushroom (POTTED_RED_MUSHROOM isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: cocoa (COCOA isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: tripwire (TRIPWIRE isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_crimson_fungus (POTTED_CRIMSON_FUNGUS isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: warped_wall_sign (WARPED_WALL_SIGN isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: attached_pumpkin_stem (ATTACHED_PUMPKIN_STEM isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: tube_coral_wall_fan (TUBE_CORAL_WALL_FAN isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_dandelion (POTTED_DANDELION isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_brown_mushroom (POTTED_BROWN_MUSHROOM isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: candle_cake (CANDLE_CAKE isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_spruce_sapling (POTTED_SPRUCE_SAPLING isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: dead_tube_coral_wall_fan (DEAD_TUBE_CORAL_WALL_FAN isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_white_tulip (POTTED_WHITE_TULIP isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: dead_brain_coral_wall_fan (DEAD_BRAIN_CORAL_WALL_FAN isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: tall_seagrass (TALL_SEAGRASS isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: jungle_wall_sign (JUNGLE_WALL_SIGN isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: bubble_column (BUBBLE_COLUMN isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: lime_wall_banner (LIME_WALL_BANNER isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: nether_portal (NETHER_PORTAL isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: brain_coral_wall_fan (BRAIN_CORAL_WALL_FAN isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: soul_fire (SOUL_FIRE isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: brown_candle_cake (BROWN_CANDLE_CAKE isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: dark_oak_wall_sign (DARK_OAK_WALL_SIGN isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: end_portal (END_PORTAL isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: birch_wall_sign (BIRCH_WALL_SIGN isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: spruce_wall_sign (SPRUCE_WALL_SIGN isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_red_tulip (POTTED_RED_TULIP isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: wall_torch (WALL_TORCH isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: twisting_vines_plant (TWISTING_VINES_PLANT isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_lily_of_the_valley (POTTED_LILY_OF_THE_VALLEY isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: oak_wall_sign (OAK_WALL_SIGN isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: horn_coral_wall_fan (HORN_CORAL_WALL_FAN isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: pink_wall_banner (PINK_WALL_BANNER isn't an item)
-[19:43:32] [Server thread/INFO]: [Magic] [skull{display:{Name:"{\"text\":\"Copper Chunk\"}"},SkullOwner:{Id:[I;-1036162939,-1851833705,-1803264362,-2044992477],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODc2NDA2MGI4MThlNGE2NzA2NzEzYzg1MWRmNTJhZmZiNzAwODM3MDE5Y2JkNzcxMjZlYTE1NGU3MGNkNjcxYyJ9fX0="}]}}}] Custom NBT tags on items are no longer supported. Please change to the {1234} syntax for custom model data.
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: cave_vines_plant (CAVE_VINES_PLANT isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: red_wall_banner (RED_WALL_BANNER isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_azalea_bush (POTTED_AZALEA_BUSH isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: gray_wall_banner (GRAY_WALL_BANNER isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: brown_wall_banner (BROWN_WALL_BANNER isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: dead_bubble_coral_wall_fan (DEAD_BUBBLE_CORAL_WALL_FAN isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: light_gray_wall_banner (LIGHT_GRAY_WALL_BANNER isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: bamboo_sapling (BAMBOO_SAPLING isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: kelp_plant (KELP_PLANT isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: pink_candle_cake (PINK_CANDLE_CAKE isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: sweet_berry_bush (SWEET_BERRY_BUSH isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: lava (LAVA isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: piston_head (PISTON_HEAD isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_birch_sapling (POTTED_BIRCH_SAPLING isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: end_gateway (END_GATEWAY isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: purple_candle_cake (PURPLE_CANDLE_CAKE isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: yellow_candle_cake (YELLOW_CANDLE_CAKE isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: redstone_wire (REDSTONE_WIRE isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: attached_melon_stem (ATTACHED_MELON_STEM isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: pumpkin_stem (PUMPKIN_STEM isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_blue_orchid (POTTED_BLUE_ORCHID isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: weeping_vines_plant (WEEPING_VINES_PLANT isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_wither_rose (POTTED_WITHER_ROSE isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: red_candle_cake (RED_CANDLE_CAKE isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: water (WATER isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: lime_candle_cake (LIME_CANDLE_CAKE isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: redstone_wall_torch (REDSTONE_WALL_TORCH isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_acacia_sapling (POTTED_ACACIA_SAPLING isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: soul_wall_torch (SOUL_WALL_TORCH isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: black_candle_cake (BLACK_CANDLE_CAKE isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_oxeye_daisy (POTTED_OXEYE_DAISY isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: black_wall_banner (BLACK_WALL_BANNER isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: moving_piston (MOVING_PISTON isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: powder_snow_cauldron (POWDER_SNOW_CAULDRON isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: frosted_ice (FROSTED_ICE isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: yellow_wall_banner (YELLOW_WALL_BANNER isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: cyan_wall_banner (CYAN_WALL_BANNER isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: acacia_wall_sign (ACACIA_WALL_SIGN isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_allium (POTTED_ALLIUM isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: cave_vines (CAVE_VINES isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: powder_snow (POWDER_SNOW isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: light_gray_candle_cake (LIGHT_GRAY_CANDLE_CAKE isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_oak_sapling (POTTED_OAK_SAPLING isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_poppy (POTTED_POPPY isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: gray_candle_cake (GRAY_CANDLE_CAKE isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_crimson_roots (POTTED_CRIMSON_ROOTS isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: water_cauldron (WATER_CAULDRON isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_orange_tulip (POTTED_ORANGE_TULIP isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_bamboo (POTTED_BAMBOO isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: cyan_candle_cake (CYAN_CANDLE_CAKE isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: wall_sign (OAK_WALL_SIGN isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: purple_wall_banner (PURPLE_WALL_BANNER isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_pink_tulip (POTTED_PINK_TULIP isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: magenta_candle_cake (MAGENTA_CANDLE_CAKE isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: fire (FIRE isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: blue_candle_cake (BLUE_CANDLE_CAKE isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: orange_wall_banner (ORANGE_WALL_BANNER isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: light_blue_candle_cake (LIGHT_BLUE_CANDLE_CAKE isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: carrots (CARROTS isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: white_wall_banner (WHITE_WALL_BANNER isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: dead_horn_coral_wall_fan (DEAD_HORN_CORAL_WALL_FAN isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_cornflower (POTTED_CORNFLOWER isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potatoes (POTATOES isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: green_wall_banner (GREEN_WALL_BANNER isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_dead_bush (POTTED_DEAD_BUSH isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: melon_stem (MELON_STEM isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_fern (POTTED_FERN isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_cactus (POTTED_CACTUS isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_dark_oak_sapling (POTTED_DARK_OAK_SAPLING isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_flowering_azalea_bush (POTTED_FLOWERING_AZALEA_BUSH isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: dead_fire_coral_wall_fan (DEAD_FIRE_CORAL_WALL_FAN isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: lava_cauldron (LAVA_CAULDRON isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: bubble_coral_wall_fan (BUBBLE_CORAL_WALL_FAN isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: blue_wall_banner (BLUE_WALL_BANNER isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: orange_candle_cake (ORANGE_CANDLE_CAKE isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_warped_roots (POTTED_WARPED_ROOTS isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: big_dripleaf_stem (BIG_DRIPLEAF_STEM isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: beetroots (BEETROOTS isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_jungle_sapling (POTTED_JUNGLE_SAPLING isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: crimson_wall_sign (CRIMSON_WALL_SIGN isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: white_candle_cake (WHITE_CANDLE_CAKE isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: potted_azure_bluet (POTTED_AZURE_BLUET isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: light_blue_wall_banner (LIGHT_BLUE_WALL_BANNER isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: magenta_wall_banner (MAGENTA_WALL_BANNER isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: green_candle_cake (GREEN_CANDLE_CAKE isn't an item)
-[19:43:32] [Server thread/WARN]: [Magic]  Invalid item in config: fire_coral_wall_fan (FIRE_CORAL_WALL_FAN isn't an item)
-[19:43:32] [Server thread/INFO]: [Magic] LogBlock not found
-[19:43:32] [Server thread/INFO]: [Magic] Factions not found
-[19:43:32] [Server thread/INFO]: [Magic] WorldGuard not found, region protection and pvp checks will not be used.
-[19:43:32] [Server thread/INFO]: [Magic] Towny not found, region protection and pvp checks will not be used.
-[19:43:32] [Server thread/INFO]: [Magic] Lockette nor LockettePro found, will not integrate.
-[19:43:32] [Server thread/INFO]: [Magic] GriefPrevention not found, claim protection will not be used.
-[19:43:32] [Server thread/INFO]: [Magic] NoCheatPlus not found, will not integrate.
-[19:43:32] [Server thread/INFO]: [Magic] dynmap not found, not integrating.
-[19:43:32] [Server thread/INFO]: [Magic] Citizens not found, Magic trait unavailable.
-[19:43:32] [Server thread/INFO]: [Magic] LightAPI not found, Light action will not work
-[19:43:32] [Server thread/INFO]: [Magic] Loaded 0 arenas
-[19:43:32] [Server thread/INFO]: [Magic] Finished loading configuration
-[19:43:32] [Server thread/INFO]: [WolfyUtilities] Enabled plugin integration for Magic
-[19:43:32] [Server thread/INFO]: Resource pack has not changed, using hash nA5u1FzqRY87wl29XKhD9dth/q8= (1722379799000 <= 1722379799000)
-[19:43:32] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.0, you're on: 5.1.1
-[19:43:32] [Server thread/INFO]: Done (72.609s)! For help, type "help"
-[19:43:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3013ms or 60 ticks behind
-[19:43:32] [Server thread/INFO]: Timings Reset
-[19:43:32] [Server thread/INFO]: [Magic] Finished loading data.
-[19:43:33] [Craft Scheduler Thread - 9 - ImageFrame/INFO]: [ImageFrame] Data loading completed! Loaded 4 ImageMaps!
-[19:43:34] [Craft Scheduler Thread - 22 - AxGraves/INFO]: AxGraves » ¡Hay una nueva versión de AxGraves disponible! (current: 1.16.0 | latest: 1.17.0)
-[19:43:37] [InteractionVisualizer Async Processing Thread #2/INFO]: [InteractionVisualizer] A new version is available on SpigotMC: 1.18.13
-[19:43:37] [InteractionVisualizer Async Processing Thread #2/INFO]: Download: https://www.spigotmc.org/resources/77050
-[19:43:53] [User Authenticator #0/INFO]: UUID of player AminAbel05 is 7aeaa6e0-a988-3ae0-80a2-c88e2d558730
-[19:43:58] [Server thread/INFO]: AminAbel05 joined the game
-[19:43:59] [Server thread/INFO]: AminAbel05[/127.75.33.127:56129] logged in with entity id 78 at ([world]251.63394908444468, 94.0, -222.76249998807907)
-[19:52:23] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username ColdestThrone20
-[19:52:23] [localSession-7-2/INFO]: [Geyser-Spigot] ColdestThrone20 (logged in as: ColdestThrone20) has connected to the Java server
-[19:52:24] [Server thread/INFO]: [floodgate] Floodgate player logged in as ColdestThrone20 joined (UUID: 00000000-0000-0000-0009-01fc427adbd4)
-[19:52:24] [Server thread/INFO]: ColdestThrone20 joined the game
-[19:52:24] [Server thread/INFO]: ColdestThrone20[/127.0.0.1:0] logged in with entity id 998 at ([world]114.25998, 91.9375, -195.79765)
-[19:53:55] [Server thread/INFO]: ColdestThrone20 issued server command: /carry AminAbel05
-[19:53:56] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/167, uuid='5b3adcde-b7eb-4a85-8e09-05f850eee243', l='ServerLevel[world]', x=172.94, y=25.31, z=-185.95, cpos=[10, -12], tl=11724, v=true] died: Infernal Zombie suffocated in a wall
-[19:54:26] [Server thread/INFO]: AminAbel05 issued server command: /carry ColdestThrone20
-[19:55:27] [localSession-7-2/INFO]: [Geyser-Spigot] ColdestThrone20 has disconnected from the Java server because of Bedrock client disconnected
-[19:55:27] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as ColdestThrone20 disconnected
-[19:55:27] [Server thread/INFO]: ColdestThrone20 lost connection: Disconnected
-[19:55:27] [Server thread/INFO]: ColdestThrone20 left the game
-[20:01:36] [Server thread/INFO]: AminAbel05 lost connection: Disconnected
-[20:01:36] [Server thread/INFO]: AminAbel05 left the game
-[20:09:30] [User Authenticator #1/INFO]: UUID of player AminAbel05 is 7aeaa6e0-a988-3ae0-80a2-c88e2d558730
-[20:09:33] [Server thread/INFO]: AminAbel05 joined the game
-[20:09:33] [Server thread/INFO]: AminAbel05[/127.75.33.127:46485] logged in with entity id 1872 at ([world]252.59138298976532, 94.0, -221.4023127718668)
-[20:13:40] [Server thread/INFO]: AminAbel05 lost connection: Disconnected
-[20:13:40] [Server thread/INFO]: AminAbel05 left the game
-[20:14:29] [Server thread/INFO]: [Magic] Server is shutting down, closing all wand inventories
-[20:14:29] [Server thread/INFO]: Stopping the server
-[20:14:29] [Server thread/INFO]: Stopping server
-[20:14:29] [Server thread/INFO]: [Streamotes] Disabling Streamotes v1.2.3
-[20:14:29] [Server thread/INFO]: [PlayerCarry] Disabling PlayerCarry v1.1
-[20:14:29] [Server thread/INFO]: [AxGraves] Disabling AxGraves v1.16.0
-[20:14:29] [Server thread/INFO]: [CustomCrafting] Disabling CustomCrafting v4.16.11
-[20:14:29] [Server thread/INFO]: [BetterChairs] Disabling BetterChairs v1.12.0
-[20:14:29] [Server thread/INFO]: [GlowingItems] Disabling GlowingItems v1.0.3
-[20:14:29] [Server thread/INFO]: [GlowingItems] GlowingItems is stopping! Bye!
-[20:14:29] [Server thread/INFO]: [InteractionVisualizer] Disabling InteractionVisualizer v1.18.10.0
-[20:14:29] [Server thread/INFO]: [InteractionVisualizer] Saving player preferences bitmask index, do not halt the server.
-[20:14:29] [Server thread/INFO]: [InteractionVisualizer] InteractionVisualizer has been disabled!
-[20:14:29] [Server thread/INFO]: [Waypoints] Disabling Waypoints v4.5.5
-[20:14:29] [Server thread/INFO]: [ExecutableItems] Disabling ExecutableItems v7.24.12.3
-[20:14:29] [Server thread/INFO]: [SCore] Disabling SCore v5.24.12.3
-[20:14:29] [Server thread/INFO]: SCore Save UsagePerDay....
-[20:14:29] [Server thread/INFO]: SCore Save UsagePerDay done !
-[20:14:29] [Server thread/INFO]: SCore Save Commands...
-[20:14:29] [Server thread/INFO]: SCore Save Commands done !
-[20:14:29] [Server thread/INFO]: SCore Save Cooldowns...
-[20:14:29] [Server thread/INFO]: SCore 0 cooldowns saved
-[20:14:29] [Server thread/INFO]: SCore Save Cooldowns done !
-[20:14:29] [Server thread/INFO]: SCore Run delayed saving tasks...
-[20:14:29] [Server thread/INFO]: SCore Run delayed saving tasks done !
-[20:14:29] [Server thread/INFO]: [BackpackPlus] Disabling BackpackPlus v1.4.5
-[20:14:29] [Server thread/INFO]: [BackpackPlus] SQLite Successfully disconnected from the database
-[20:14:29] [Server thread/INFO]: [ReviveMe] Disabling ReviveMe v0.4.4
-[20:14:29] [Server thread/INFO]: ReviveMe disable
-[20:14:29] [Server thread/INFO]: [RottenFlesh2Leather] Disabling RottenFlesh2Leather v1.21-v1.0
-[20:14:29] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.2.6
-[20:14:29] [Server thread/INFO]: [InfernalMobs] Disabling InfernalMobs v6.8
-[20:14:29] [Server thread/INFO]: [ImageFrame] Disabling ImageFrame v1.7.9.0
-[20:14:29] [Server thread/INFO]: [ImageFrame] ImageFrame has been Disabled!
-[20:14:29] [Server thread/INFO]: [Elevator] Disabling Elevator v1.2
-[20:14:29] [Server thread/INFO]: [Elevator] [STDOUT] Simple Elevator is to stop !
-[20:14:29] [Server thread/WARN]: Nag author(s): '[Lamdis]' of 'Elevator v1.2' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
-[20:14:29] [Server thread/INFO]: [Sleeper] Disabling Sleeper v1.5.3
-[20:14:29] [Server thread/INFO]: [Sleeper] Sleeper Has Been Disabled!
-[20:14:29] [Server thread/INFO]: [TeaWaystones] Disabling TeaWaystones v1.0.5
-[20:14:29] [Server thread/INFO]: [SuperEnchants] Disabling SuperEnchants v2.6.7
-[20:14:29] [Server thread/INFO]: [Brewery] Disabling Brewery v3.1.1
-[20:14:29] [Server thread/INFO]: [Brewery] Brewery disabled!
-[20:14:29] [Server thread/INFO]: [SimpleCrops] Disabling SimpleCrops v2.1.5-BETA
-[20:14:29] [Server thread/INFO]: [eu.virtusdevelops.simplecrops.hikari.HikariDataSource] Storage - Shutdown initiated...
-[20:14:29] [Server thread/INFO]: [eu.virtusdevelops.simplecrops.hikari.HikariDataSource] Storage - Shutdown completed.
-[20:14:29] [Server thread/INFO]: [WolfyUtilities] Disabling WolfyUtilities v4.17-beta.7
-[20:14:29] [Server thread/INFO]: [WolfyUtilities] Save stored Custom Items
-[20:14:29] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.5.1-SNAPSHOT
-[20:14:29] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[20:14:29] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[20:14:29] [Server thread/INFO]: [QualityArmory] Disabling QualityArmory v2.0.16
-[20:14:29] [Server thread/INFO]: [Magic] Disabling Magic v10.9.4-1bea7e8
-[20:14:29] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[20:14:29] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
-[20:14:29] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.1.1
-[20:14:29] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[20:14:29] [Server thread/INFO]: Saving players
-[20:14:29] [Server thread/INFO]: Saving worlds
-[20:14:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:14:29] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[20:14:29] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[20:14:29] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[20:14:29] [WebSocketConnectReadThread-154/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[20:14:30] [Server thread/INFO]: [ChunkHolderManager] Saved 144 block chunks, 184 entity chunks, 0 poi chunks in world 'world' in 0.17s
-[20:14:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[20:14:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[20:14:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[20:14:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[20:14:30] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[20:14:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[20:14:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[20:14:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[20:14:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[20:14:30] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[20:14:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:14:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:14:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:14:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:39:45] [Server thread/INFO]: [ImageFrame] ImageFrame has hooked into ViaVersion!
+[21:39:46] [Server thread/INFO]: [ImageFrame] ImageFrame has been Enabled!
+[21:39:46] [Server thread/INFO]: [InfernalMobs] Enabling InfernalMobs v6.8
+[21:39:46] [Server thread/INFO]: [InfernalMobs] Registered Events.
+[21:39:46] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.2.6
+[21:39:47] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
+[21:39:47] [Server thread/INFO]: [AuraSkills] Successfully registered hook ProtocolLib
+[21:39:47] [Server thread/INFO]: [AuraSkills] Loaded 150 config options in 64 ms
+[21:39:47] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21! Trying to find NMS support
+[21:39:47] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
+[21:39:47] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[21:39:48] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[21:39:48] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[21:39:48] [Server thread/INFO]: [RottenFlesh2Leather] Enabling RottenFlesh2Leather v1.21-v1.0
+[21:39:48] [Server thread/INFO]: [ReviveMe] Enabling ReviveMe v0.4.4
+[21:39:48] [Server thread/INFO]: ReviveMe enable
+[21:39:48] [Server thread/INFO]: [BackpackPlus] Enabling BackpackPlus v1.4.5
+[21:39:48] [Server thread/INFO]: [BackpackPlus] [Pack] No update needed; current readme is up to date.
+[21:39:48] [Server thread/INFO]: [BackpackPlus] [Settings] Configuration loaded successfully. No missing fields detected.
+[21:39:48] [Server thread/INFO]: [BackpackPlus] [Database] Configuration loaded successfully. No missing fields detected.
+[21:39:48] [Server thread/INFO]: [BackpackPlus] [Database] SQLite Successfully connected to database
+[21:39:48] [Server thread/INFO]: [BackpackPlus] Language used: eng
+[21:39:48] [Server thread/INFO]: [ExecutableItems] Enabling ExecutableItems v7.24.12.3
+[21:39:48] [Server thread/INFO]: ================ ExecutableItems ================
+[21:39:49] [Server thread/ERROR]: [ExecutableItems] Invalid world: myWorld in the option disableItemsPerWorld
+[21:39:49] [Server thread/ERROR]: [ExecutableItems] Invalid world: myWorld2 in the option disableItemsPerWorld
+[21:39:51] [Server thread/INFO]: ExecutableItems Amount of Executable Items configurations loaded: 18
+[21:39:51] [Server thread/INFO]: ExecutableItems Items with display conditions :  
+[21:39:51] [Server thread/INFO]: ================ ExecutableItems ================
+[21:39:51] [Server thread/INFO]: [WolfyUtilities] Enabled plugin integration for ExecutableItems
+[21:39:51] [Server thread/INFO]: [Waypoints] Enabling Waypoints v4.5.5
+[21:39:52] [Server thread/INFO]: [InteractionVisualizer] Enabling InteractionVisualizer v1.18.10.0
+[21:39:54] [Server thread/INFO]: [InteractionVisualizer] Opened Sqlite database successfully
+[21:39:56] [Server thread/INFO]: [InteractionVisualizer] InteractionVisualizer has been enabled!
+[21:39:56] [Server thread/INFO]: [BetterChairs] Enabling BetterChairs v1.12.0
+[21:39:56] [Server thread/INFO]: [CustomCrafting] Enabling CustomCrafting v4.16.11
+[21:39:56] [Server thread/INFO]: [CustomCrafting] Loaded fallback language "en_US" v6.1.0 translated by WolfyScript
+[21:39:56] [Server thread/INFO]: [CustomCrafting] Loaded active language "en_US" v6.1.0 translated by WolfyScript
+[21:39:56] [Server thread/INFO]: [CustomCrafting] ____ _  _ ____ ___ ____ _  _ ____ ____ ____ ____ ___ _ _  _ ____ 
+[21:39:56] [Server thread/INFO]: [CustomCrafting] |    |  | [__   |  |  | |\/| |    |__/ |__| |___  |  | |\ | | __ 
+[21:39:56] [Server thread/INFO]: [CustomCrafting] |___ |__| ___]  |  |__| |  | |___ |  \ |  | |     |  | | \| |__]
+[21:39:56] [Server thread/INFO]: [CustomCrafting]     Version      | v4.16.11
+[21:39:56] [Server thread/INFO]: [CustomCrafting]     WolfyUtils   | v4.17-beta.7
+[21:39:56] [Server thread/INFO]: [CustomCrafting]     Bukkit       | 1.21-130-b1b5d4c (MC: 1.21)(API: 1.21-R0.1-SNAPSHOT)
+[21:39:56] [Server thread/INFO]: [CustomCrafting] 
+[21:39:56] [Server thread/INFO]: [CustomCrafting] Special thanks to my Patrons for supporting this project: 
+[21:39:56] [Server thread/INFO]: [CustomCrafting] Omarlatif, Nat R, Obsidian_Sword, LiveJunye, Mithran, Teddy
+[21:39:56] [Server thread/INFO]: [CustomCrafting] Invictus_Vulpes , Luuk Musch, fioxu, JorshStark, Perny Dev, Charlie
+[21:39:56] [Server thread/INFO]: [CustomCrafting] iachen, whja t, Green Masks, lance fector, Jack Snellings, MineHouse Server
+[21:39:56] [Server thread/INFO]: [CustomCrafting] ------------------------------------------------------------------------
+[21:39:56] [Server thread/INFO]: [CustomCrafting] Detected ProtocolLib... initiating additional features.
+[21:39:56] [Server thread/INFO]: [CustomCrafting] Data destination: LOCAL
+[21:39:57] [Server thread/INFO]: [CustomCrafting] Initiating Inventory GUIs
+[21:39:57] [Server thread/INFO]: [CustomCrafting] Register ItemCreator Tabs
+[21:39:57] [Server thread/INFO]: [CustomCrafting] Loading Recipes & Items
+[21:39:57] [Server thread/INFO]: [CustomCrafting] - - - - [Local Storage] - - - -
+[21:39:57] [Server thread/INFO]: [CustomCrafting] [LOCAL] Using 4 threads
+[21:39:57] [Server thread/INFO]: [CustomCrafting] [LOCAL] Looking through data folder...
+[21:39:57] [Server thread/INFO]: [CustomCrafting] [LOCAL] Loading Items
+[21:39:58] [Server thread/INFO]: [CustomCrafting] [LOCAL] Loading Recipes
+[21:39:58] [Server thread/INFO]: [CustomCrafting] [LOCAL] Loaded 3 recipes in 81ms
+[21:39:58] [Server thread/INFO]: [CustomCrafting] Indexing Recipe Book...
+[21:39:58] [Server thread/INFO]: [CustomCrafting] Indexed Recipe Book!
+[21:39:58] [Server thread/INFO]: [CustomCrafting] ------------------------------------------------------------------------
+[21:39:58] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.16.0
+[21:39:58] [Timer-1/INFO]: [BetterChairs] Found a new update v1.12.0 -> v1.13.0 — Download the update from: 
+modrinth: https://modrinth.com/plugin/betterchairs
+Hangar: https://hangar.papermc.io/Sprax/BetterChairs
+SpigotMC: https://r.spiget.org/84809
+GitHub: https://github.com/SpraxDev/BetterChairs/releases
+
+Changelog: https://github.com/SpraxDev/BetterChairs/blob/main/CHANGELOG.md#version-1130
+[21:39:58] [Server thread/INFO]: [PlayerCarry] Enabling PlayerCarry v1.1
+[21:39:58] [Server thread/INFO]: [Streamotes] Enabling Streamotes v1.2.3
+[21:39:58] [Server thread/INFO]: [Streamotes] Config reloaded
+[21:39:58] [Server thread/INFO]: [spark] Starting background profiler...
+[21:39:59] [Server thread/INFO]: [SuperEnchants] [STDOUT] Registering commands
+[21:39:59] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[21:39:59] [Server thread/INFO]: [Geyser-Spigot] 
+[21:39:59] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.5.1-b725 (git-master-d2051c2)
+[21:39:59] [Server thread/INFO]: [Geyser-Spigot] 
+[21:39:59] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[21:40:05] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 3885
+[21:40:05] [Server thread/INFO]: [Geyser-Spigot] Done (6.619s)! Run /geyser help for help!
+[21:40:06] [Server thread/INFO]: Done preparing level "world" (28.711s)
+[21:40:06] [Server thread/INFO]: Running delayed init tasks
+[21:40:06] [Craft Scheduler Thread - 6 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[21:40:06] [Craft Scheduler Thread - 8 - Brewery/INFO]: [Brewery] Background data loading complete.
+[21:40:06] [Craft Scheduler Thread - 13 - InteractionVisualizer/INFO]: [InteractionVisualizer] Downloading and extracting latest Language files...
+[21:40:06] [Craft Scheduler Thread - 10 - BackpackPlus/INFO]: [BackpackPlus] Plugin is up to date.
+[21:40:06] [Craft Scheduler Thread - 9 - ReviveMe/INFO]: [ReviveMe] There is not a new update available.
+[21:40:06] [Craft Scheduler Thread - 12 - Waypoints/INFO]: [Waypoints] The latest version of Waypoints is used
+[21:40:06] [Craft Scheduler Thread - 13 - InteractionVisualizer/INFO]: [InteractionVisualizer] Sucessfully downloaded the latest Language files!
+[21:40:06] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 312 total sources
+[21:40:06] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[21:40:07] [Server thread/INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[21:40:07] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[21:40:07] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
+[21:40:07] [Server thread/INFO]: [Magic] Vault not found, 'currency' cost types unavailable
+[21:40:07] [Server thread/INFO]: [Magic] Registered currencies: item,mana,xp,health,currency,sp,levels,hunger
+[21:40:08] [Server thread/INFO]: [Magic] Loaded 555 spells
+[21:40:08] [Server thread/INFO]: [Magic] Loaded 12 progression paths
+[21:40:09] [Server thread/INFO]: [Magic] Loaded 16 crafting recipes
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_warped_fungus (POTTED_WARPED_FUNGUS isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_red_mushroom (POTTED_RED_MUSHROOM isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: cocoa (COCOA isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: tripwire (TRIPWIRE isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_crimson_fungus (POTTED_CRIMSON_FUNGUS isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: warped_wall_sign (WARPED_WALL_SIGN isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: attached_pumpkin_stem (ATTACHED_PUMPKIN_STEM isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: tube_coral_wall_fan (TUBE_CORAL_WALL_FAN isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_dandelion (POTTED_DANDELION isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_brown_mushroom (POTTED_BROWN_MUSHROOM isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: candle_cake (CANDLE_CAKE isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_spruce_sapling (POTTED_SPRUCE_SAPLING isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: dead_tube_coral_wall_fan (DEAD_TUBE_CORAL_WALL_FAN isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_white_tulip (POTTED_WHITE_TULIP isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: dead_brain_coral_wall_fan (DEAD_BRAIN_CORAL_WALL_FAN isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: tall_seagrass (TALL_SEAGRASS isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: jungle_wall_sign (JUNGLE_WALL_SIGN isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: bubble_column (BUBBLE_COLUMN isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: lime_wall_banner (LIME_WALL_BANNER isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: nether_portal (NETHER_PORTAL isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: brain_coral_wall_fan (BRAIN_CORAL_WALL_FAN isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: soul_fire (SOUL_FIRE isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: brown_candle_cake (BROWN_CANDLE_CAKE isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: dark_oak_wall_sign (DARK_OAK_WALL_SIGN isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: end_portal (END_PORTAL isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: birch_wall_sign (BIRCH_WALL_SIGN isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: spruce_wall_sign (SPRUCE_WALL_SIGN isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_red_tulip (POTTED_RED_TULIP isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: wall_torch (WALL_TORCH isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: twisting_vines_plant (TWISTING_VINES_PLANT isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_lily_of_the_valley (POTTED_LILY_OF_THE_VALLEY isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: oak_wall_sign (OAK_WALL_SIGN isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: horn_coral_wall_fan (HORN_CORAL_WALL_FAN isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: pink_wall_banner (PINK_WALL_BANNER isn't an item)
+[21:40:09] [Server thread/INFO]: [Magic] [skull{display:{Name:"{\"text\":\"Copper Chunk\"}"},SkullOwner:{Id:[I;-1036162939,-1851833705,-1803264362,-2044992477],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODc2NDA2MGI4MThlNGE2NzA2NzEzYzg1MWRmNTJhZmZiNzAwODM3MDE5Y2JkNzcxMjZlYTE1NGU3MGNkNjcxYyJ9fX0="}]}}}] Custom NBT tags on items are no longer supported. Please change to the {1234} syntax for custom model data.
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: cave_vines_plant (CAVE_VINES_PLANT isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: red_wall_banner (RED_WALL_BANNER isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_azalea_bush (POTTED_AZALEA_BUSH isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: gray_wall_banner (GRAY_WALL_BANNER isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: brown_wall_banner (BROWN_WALL_BANNER isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: dead_bubble_coral_wall_fan (DEAD_BUBBLE_CORAL_WALL_FAN isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: light_gray_wall_banner (LIGHT_GRAY_WALL_BANNER isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: bamboo_sapling (BAMBOO_SAPLING isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: kelp_plant (KELP_PLANT isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: pink_candle_cake (PINK_CANDLE_CAKE isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: sweet_berry_bush (SWEET_BERRY_BUSH isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: lava (LAVA isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: piston_head (PISTON_HEAD isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_birch_sapling (POTTED_BIRCH_SAPLING isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: end_gateway (END_GATEWAY isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: purple_candle_cake (PURPLE_CANDLE_CAKE isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: yellow_candle_cake (YELLOW_CANDLE_CAKE isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: redstone_wire (REDSTONE_WIRE isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: attached_melon_stem (ATTACHED_MELON_STEM isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: pumpkin_stem (PUMPKIN_STEM isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_blue_orchid (POTTED_BLUE_ORCHID isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: weeping_vines_plant (WEEPING_VINES_PLANT isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_wither_rose (POTTED_WITHER_ROSE isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: red_candle_cake (RED_CANDLE_CAKE isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: water (WATER isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: lime_candle_cake (LIME_CANDLE_CAKE isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: redstone_wall_torch (REDSTONE_WALL_TORCH isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_acacia_sapling (POTTED_ACACIA_SAPLING isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: soul_wall_torch (SOUL_WALL_TORCH isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: black_candle_cake (BLACK_CANDLE_CAKE isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_oxeye_daisy (POTTED_OXEYE_DAISY isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: black_wall_banner (BLACK_WALL_BANNER isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: moving_piston (MOVING_PISTON isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: powder_snow_cauldron (POWDER_SNOW_CAULDRON isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: frosted_ice (FROSTED_ICE isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: yellow_wall_banner (YELLOW_WALL_BANNER isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: cyan_wall_banner (CYAN_WALL_BANNER isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: acacia_wall_sign (ACACIA_WALL_SIGN isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_allium (POTTED_ALLIUM isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: cave_vines (CAVE_VINES isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: powder_snow (POWDER_SNOW isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: light_gray_candle_cake (LIGHT_GRAY_CANDLE_CAKE isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_oak_sapling (POTTED_OAK_SAPLING isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_poppy (POTTED_POPPY isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: gray_candle_cake (GRAY_CANDLE_CAKE isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_crimson_roots (POTTED_CRIMSON_ROOTS isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: water_cauldron (WATER_CAULDRON isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_orange_tulip (POTTED_ORANGE_TULIP isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_bamboo (POTTED_BAMBOO isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: cyan_candle_cake (CYAN_CANDLE_CAKE isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: wall_sign (OAK_WALL_SIGN isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: purple_wall_banner (PURPLE_WALL_BANNER isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_pink_tulip (POTTED_PINK_TULIP isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: magenta_candle_cake (MAGENTA_CANDLE_CAKE isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: fire (FIRE isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: blue_candle_cake (BLUE_CANDLE_CAKE isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: orange_wall_banner (ORANGE_WALL_BANNER isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: light_blue_candle_cake (LIGHT_BLUE_CANDLE_CAKE isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: carrots (CARROTS isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: white_wall_banner (WHITE_WALL_BANNER isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: dead_horn_coral_wall_fan (DEAD_HORN_CORAL_WALL_FAN isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_cornflower (POTTED_CORNFLOWER isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potatoes (POTATOES isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: green_wall_banner (GREEN_WALL_BANNER isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_dead_bush (POTTED_DEAD_BUSH isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: melon_stem (MELON_STEM isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_fern (POTTED_FERN isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_cactus (POTTED_CACTUS isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_dark_oak_sapling (POTTED_DARK_OAK_SAPLING isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_flowering_azalea_bush (POTTED_FLOWERING_AZALEA_BUSH isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: dead_fire_coral_wall_fan (DEAD_FIRE_CORAL_WALL_FAN isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: lava_cauldron (LAVA_CAULDRON isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: bubble_coral_wall_fan (BUBBLE_CORAL_WALL_FAN isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: blue_wall_banner (BLUE_WALL_BANNER isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: orange_candle_cake (ORANGE_CANDLE_CAKE isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_warped_roots (POTTED_WARPED_ROOTS isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: big_dripleaf_stem (BIG_DRIPLEAF_STEM isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: beetroots (BEETROOTS isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_jungle_sapling (POTTED_JUNGLE_SAPLING isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: crimson_wall_sign (CRIMSON_WALL_SIGN isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: white_candle_cake (WHITE_CANDLE_CAKE isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: potted_azure_bluet (POTTED_AZURE_BLUET isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: light_blue_wall_banner (LIGHT_BLUE_WALL_BANNER isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: magenta_wall_banner (MAGENTA_WALL_BANNER isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: green_candle_cake (GREEN_CANDLE_CAKE isn't an item)
+[21:40:09] [Server thread/WARN]: [Magic]  Invalid item in config: fire_coral_wall_fan (FIRE_CORAL_WALL_FAN isn't an item)
+[21:40:09] [Server thread/INFO]: [Magic] LogBlock not found
+[21:40:09] [Server thread/INFO]: [Magic] Factions not found
+[21:40:09] [Server thread/INFO]: [Magic] WorldGuard not found, region protection and pvp checks will not be used.
+[21:40:09] [Server thread/INFO]: [Magic] Towny not found, region protection and pvp checks will not be used.
+[21:40:09] [Server thread/INFO]: [Magic] Lockette nor LockettePro found, will not integrate.
+[21:40:09] [Server thread/INFO]: [Magic] GriefPrevention not found, claim protection will not be used.
+[21:40:09] [Server thread/INFO]: [Magic] NoCheatPlus not found, will not integrate.
+[21:40:09] [Server thread/INFO]: [Magic] dynmap not found, not integrating.
+[21:40:09] [Server thread/INFO]: [Magic] Citizens not found, Magic trait unavailable.
+[21:40:09] [Server thread/INFO]: [Magic] LightAPI not found, Light action will not work
+[21:40:09] [Server thread/INFO]: [Magic] Loaded 0 arenas
+[21:40:09] [Server thread/INFO]: [Magic] Finished loading configuration
+[21:40:09] [Server thread/INFO]: [WolfyUtilities] Enabled plugin integration for Magic
+[21:40:09] [Server thread/INFO]: Resource pack has not changed, using hash nA5u1FzqRY87wl29XKhD9dth/q8= (1722379799000 <= 1722379799000)
+[21:40:09] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.0, you're on: 5.1.1
+[21:40:09] [Server thread/INFO]: Done (75.199s)! For help, type "help"
+[21:40:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3139ms or 62 ticks behind
+[21:40:09] [Server thread/INFO]: Timings Reset
+[21:40:09] [Server thread/INFO]: [Magic] Finished loading data.
+[21:40:11] [Craft Scheduler Thread - 8 - ImageFrame/INFO]: [ImageFrame] Data loading completed! Loaded 4 ImageMaps!
+[21:40:12] [Craft Scheduler Thread - 4 - AxGraves/INFO]: AxGraves » ¡Hay una nueva versión de AxGraves disponible! (current: 1.16.0 | latest: 1.17.0)
+[21:40:14] [InteractionVisualizer Async Processing Thread #4/INFO]: [InteractionVisualizer] A new version is available on SpigotMC: 1.18.13
+[21:40:14] [InteractionVisualizer Async Processing Thread #4/INFO]: Download: https://www.spigotmc.org/resources/77050
+[21:46:12] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username rapa2845
+[21:46:12] [localSession-7-2/INFO]: [Geyser-Spigot] rapa2845 (logged in as: rapa2845) has connected to the Java server
+[21:46:12] [Server thread/ERROR]: Unable to parse Stat data from ./world/stats/00000000-0000-0000-0009-01f656f1d938.json
+[21:46:13] [Server thread/INFO]: [floodgate] Floodgate player logged in as rapa2845 joined (UUID: 00000000-0000-0000-0009-01f656f1d938)
+[21:46:13] [Server thread/INFO]: rapa2845 joined the game
+[21:46:13] [Server thread/INFO]: rapa2845[/127.0.0.1:0] logged in with entity id 50 at ([world]171.31247, 92.0, -198.44565)
