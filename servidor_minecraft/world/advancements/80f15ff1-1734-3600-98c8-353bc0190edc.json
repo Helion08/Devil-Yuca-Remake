@@ -361,6 +361,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-16 23:31:47 +0000",
+      "minecraft:spider": "2024-12-16 23:30:37 +0000",
+      "minecraft:zombie": "2024-12-16 23:30:21 +0000",
       "minecraft:zombie_villager": "2024-12-16 23:17:19 +0000"
     },
     "done": false
@@ -416,6 +419,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-16 23:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-16 23:32:12 +0000"
     },
     "done": true
   },
@@ -496,6 +505,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-16 22:51:46 +0000",
+      "rotten_flesh": "2024-12-16 23:32:55 +0000",
       "carrot": "2024-12-16 23:04:24 +0000"
     },
     "done": false

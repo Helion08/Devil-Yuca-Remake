@@ -1262,7 +1262,6 @@ af2aa6db-5007-4fbb-9aee-7ceab2d817d8: cloaked,ghastly,molten,sprint,weakness,end
 e128c119-2545-468d-8b92-2cc71a701993: poisonous,archer,bullwark
 8e386563-5d81-43a5-90fb-3990f4ee7b44: ender,archer,1up,firework
 485c2dfa-26b1-4fa2-ac4c-e1a51a6d1f8e: molten,lifesteal,withering,ender,vengeance,archer,mama
-78995d2b-4954-4c63-895d-64eef33d1869: morph,tosser,necromancer
 93e8b9f4-47f9-47c1-b36e-351fd20400df: lifesteal,thief,quicksand,cloaked
 275dbdc7-6807-4417-aec7-7e1818c733b1: tosser,rust,quicksand,sprint,cloaked,armoured
 1b5bef64-cadb-4112-bbe9-079417a26467: ghost,bullwark,necromancer
@@ -1373,3 +1372,17 @@ cc73b3c5-1757-4139-aeb9-8d7c00aed0d1: thief,1up,quicksand,poisonous,morph,necrom
 f0834d61-2a9c-400d-bf9c-427e294edefc: storm,webber,firework,withering
 a14d6fa7-0378-40b9-961c-96787fc584df: molten,lifesteal,ender,storm
 b9f358a2-09ca-4732-946b-d5429218703e: explode,ghastly,poisonous
+ca88ecf3-4140-479f-a9a1-472bb549a0fb: explode,poisonous,gravity,sapper,blinding,thief
+10cb6a45-bbc4-4d96-b641-fb2f7343db29: 1up,sapper,molten,weakness,potions,flying,lifesteal
+b0a58054-32f8-41e2-820d-f4846fdc97f9: poisonous,rust,bullwark,weakness,ender,vengeance
+809b4603-a0e6-4967-92b8-f33718ff7821: mounted,explode,ghost,weakness,firework,withering,storm
+2ebdbc7d-4c6d-413f-a82f-a9167c1d07b3: armoured,explode,archer,sprint,weakness
+f7aadf44-187a-43f5-a190-1ce92d1fb21d: mama,gravity,necromancer,flying,rust,webber,mounted
+7cbe28a0-0802-4c9e-8373-ae7eed8ef11b: webber,sapper,poisonous,molten,mounted,ghastly,firework
+b55c1b33-a51b-4373-b8d0-52973ddf6d7a: morph,firework,lifesteal
+327d1746-f926-4c47-88fa-47df8f8b2539: withering,lifesteal,potions
+92bcdbdc-04bb-4e95-8769-613c4f806bb6: bullwark,poisonous,ghost,ender,tosser,potions,webber
+4af62c1f-6138-4519-9201-195838ea35f6: thief,gravity,ghastly,mounted,ender,ghost,poisonous
+6d8cc32a-5f4a-4088-ac04-65bc0aa9381c: ender,withering,quicksand,lifesteal,archer
+e8595837-bd05-4d26-9d26-03ea62237a5f: webber,thief,molten,quicksand,tosser,rust,lifesteal
+fed65eaa-01f6-4d41-84fc-ea00ff35107c: ghost,sprint,mama,necromancer,potions,archer

@@ -1,10 +1,10 @@
 id: 7aeaa6e0-a988-3ae0-80a2-c88e2d558730
 name: AminAbel05
 created: 1733168905556
-updated: 1734391809210
+updated: 1734392409196
 last_cast: 0
 cooldown_expiration: 0
-last_death_location: -28.651096035532568,125.5875,-130.50688832894025,world,45.318756,33.29996
+last_death_location: 250.42312776068067,90.0,-194.5818943712752,world,-56.146973,-61.64998
 fall_protection_count: 0
 fall_protection: 0
 brush:
@@ -29,8 +29,8 @@ classes:
   caster: {}
   mage:
     effect_color: cee9b9657199,cd54d9d1e319,4bb4eada5cef
-    mana_timestamp: 1734391809197
+    mana_timestamp: 1734392409146
     mana: 50.0
 transient_modifiers: {}
 active_class: mage
-health: 21.200000762939453
+health: 15.297491073608398
