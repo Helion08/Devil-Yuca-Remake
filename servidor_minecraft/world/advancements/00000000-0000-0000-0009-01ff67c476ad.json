@@ -1187,9 +1187,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-16 23:09:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-12-16 22:54:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-16 23:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-16 23:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-16 23:09:13 +0000"
     },
     "done": true
   },
@@ -1199,9 +1223,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-16 23:09:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2024-12-16 22:54:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2024-12-16 22:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-16 23:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2024-12-16 23:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-16 23:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-16 23:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-16 23:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-16 23:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-16 23:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2024-12-16 23:09:13 +0000"
     },
     "done": true
   },

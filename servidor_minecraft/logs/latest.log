@@ -711,3 +711,12 @@ Changelog: https://github.com/SpraxDev/BetterChairs/blob/main/CHANGELOG.md#versi
 [22:54:12] [Server thread/INFO]: FNCalessxx has made the advancement [Isn't It Iron Pick]
 [22:57:24] [Server thread/INFO]: FNCalessxx has made the advancement [Sweet Dreams]
 [22:58:48] [Server thread/INFO]: Sunflowers2824 has made the advancement [Light as a Rabbit]
+[23:00:52] [Server thread/INFO]: FNCalessxx has made the advancement [Stone Age]
+[23:01:00] [Server thread/WARN]: Sunflowers2824 moved wrongly!
+[23:01:41] [Server thread/WARN]: Sunflowers2824 moved wrongly!
+[23:03:52] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/16516, uuid='b76d7749-8ee6-4267-aadc-0cb12f96ba05', l='ServerLevel[world]', x=344.66, y=62.00, z=-98.00, cpos=[21, -7], tl=2321, v=true] died: Infernal Zombie suffocated in a wall
+[23:06:04] [User Authenticator #3/INFO]: UUID of player Helion08 is 1f7b03cd-ed62-3ed1-8854-a2a3a7ad7a0d
+[23:06:05] [Server thread/INFO]: Helion08 joined the game
+[23:06:05] [Server thread/INFO]: Helion08[/127.18.195.150:34537] logged in with entity id 17191 at ([world]417.5, 128.0, 515.5)
+[23:07:20] [Server thread/WARN]: Sunflowers2824 moved wrongly!
+[23:09:29] [Server thread/INFO]: FNCalessxx issued server command: /skill

@@ -1,7 +1,7 @@
 id: 00000000-0000-0000-0009-01ff67c476ad
 name: Sunflowers2824
 created: 1734309404414
-updated: 1734390009201
+updated: 1734390609196
 last_cast: 0
 cooldown_expiration: 0
 last_death_location: 251.38113,117.3216,-49.30001,world,-121.00702,9.228226
@@ -27,8 +27,8 @@ classes:
   caster: {}
   mage:
     effect_color: d783cc1b3e04,29e4027a8a70,f9d8139bdffd
-    mana_timestamp: 1734390009201
+    mana_timestamp: 1734390609146
     mana: 50.0
 transient_modifiers: {}
 active_class: mage
-health: 19.81999969482422
+health: 20.799999237060547

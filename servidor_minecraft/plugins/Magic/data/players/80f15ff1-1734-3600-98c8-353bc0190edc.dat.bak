@@ -1,7 +1,7 @@
 id: 80f15ff1-1734-3600-98c8-353bc0190edc
 name: FNCalessxx
 created: 1734389209318
-updated: 1734390009203
+updated: 1734390609198
 last_cast: 0
 cooldown_expiration: 0
 last_death_location: ''
@@ -26,8 +26,8 @@ classes:
   caster: {}
   mage:
     effect_color: e6946248db82,bc9fa4decca2,49c1ca4aa7f5
-    mana_timestamp: 1734390009201
+    mana_timestamp: 1734390609146
     mana: 50.0
 transient_modifiers: {}
 active_class: mage
-health: 6.999999523162842
+health: 20.0
