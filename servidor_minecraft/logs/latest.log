@@ -751,3 +751,36 @@ Changelog: https://github.com/SpraxDev/BetterChairs/blob/main/CHANGELOG.md#versi
 [23:33:34] [Server thread/INFO]: FNCalessxx died
 [23:37:54] [Server thread/INFO]: Sunflowers2824 died
 [23:39:49] [Server thread/INFO]: Sunflowers2824 has made the advancement [The Parrots and the Bats]
+[23:44:12] [Server thread/INFO]: FNCalessxx lost connection: Timed out
+[23:44:12] [Server thread/INFO]: FNCalessxx left the game
+[23:44:19] [localSession-7-3/INFO]: [Geyser-Spigot] Sunflowers2824 has disconnected from the Java server because of Bedrock client disconnected
+[23:44:19] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as Sunflowers2824 disconnected
+[23:44:19] [Server thread/INFO]: Sunflowers2824 lost connection: Disconnected
+[23:44:20] [Server thread/INFO]: Sunflowers2824 left the game
+[23:44:41] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Sunflowers2824
+[23:44:41] [localSession-7-4/INFO]: [Geyser-Spigot] Sunflowers2824 (logged in as: Sunflowers2824) has connected to the Java server
+[23:44:41] [User Authenticator #4/INFO]: UUID of player Sunflowers2824 is 5d856604-9a57-304b-bec7-c62529dd4d52
+[23:44:41] [Server thread/INFO]: Sunflowers2824 joined the game
+[23:44:41] [Server thread/INFO]: Sunflowers2824[/127.0.0.1:0] logged in with entity id 29262 at ([world]141.44135, 91.0, -196.7658)
+[23:45:08] [localSession-7-4/INFO]: [Geyser-Spigot] Sunflowers2824 has disconnected from the Java server because of Bedrock client disconnected
+[23:45:08] [Server thread/INFO]: Sunflowers2824 lost connection: Disconnected
+[23:45:08] [Server thread/INFO]: Sunflowers2824 left the game
+[23:45:23] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Sunflowers2824
+[23:45:23] [localSession-7-1/INFO]: [Geyser-Spigot] Sunflowers2824 (logged in as: Sunflowers2824) has connected to the Java server
+[23:45:24] [Server thread/INFO]: [floodgate] Floodgate player logged in as Sunflowers2824 joined (UUID: 00000000-0000-0000-0009-01ff67c476ad)
+[23:45:24] [Server thread/INFO]: Sunflowers2824 joined the game
+[23:45:24] [Server thread/INFO]: Sunflowers2824[/127.0.0.1:0] logged in with entity id 29349 at ([world]83.0797, 98.0, -118.94999)
+[23:47:17] [Server thread/INFO]: AminAbel05 lost connection: Disconnected
+[23:47:17] [Server thread/INFO]: AminAbel05 left the game
+[23:48:56] [Async Chat Thread - #2/INFO]: [Not Secure] <Helion08> invacion
+[23:49:17] [Async Chat Thread - #2/INFO]: [Not Secure] <Sunflowers2824> en el pueblo?
+[23:49:36] [Server thread/INFO]: Helion08 was shot by Pillager
+[23:49:53] [Server thread/INFO]: Helion08 lost connection: Disconnected
+[23:49:53] [Server thread/INFO]: Helion08 left the game
+[23:50:05] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username rapa2845
+[23:50:05] [localSession-7-2/INFO]: [Geyser-Spigot] rapa2845 (logged in as: rapa2845) has connected to the Java server
+[23:50:06] [Server thread/INFO]: [floodgate] Floodgate player logged in as rapa2845 joined (UUID: 00000000-0000-0000-0009-01f656f1d938)
+[23:50:06] [Server thread/INFO]: rapa2845 joined the game
+[23:50:06] [Server thread/INFO]: rapa2845[/127.0.0.1:0] logged in with entity id 30407 at ([world]180.32576, 92.0, -170.03075)
+[23:50:12] [Server thread/INFO]: Villager Villager['Fletcher'/124, uuid='460fbff7-4c16-4925-a3b0-2f9a1295fa1d', l='ServerLevel[world]', x=102.53, y=102.00, z=-221.74, cpos=[6, -14], tl=374826, v=true] died, message: 'Fletcher was shot by Pillager'
+[23:50:46] [Server thread/INFO]: Villager Villager['Farmer'/16, uuid='d43e3384-ef43-4830-9fb9-3fcf37985bac', l='ServerLevel[world]', x=121.77, y=101.00, z=-228.44, cpos=[7, -15], tl=275179, v=true] died, message: 'Farmer was shot by Pillager'
