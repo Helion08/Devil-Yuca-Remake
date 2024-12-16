@@ -646,3 +646,9 @@ Changelog: https://github.com/SpraxDev/BetterChairs/blob/main/CHANGELOG.md#versi
 [21:46:13] [Server thread/INFO]: [floodgate] Floodgate player logged in as rapa2845 joined (UUID: 00000000-0000-0000-0009-01f656f1d938)
 [21:46:13] [Server thread/INFO]: rapa2845 joined the game
 [21:46:13] [Server thread/INFO]: rapa2845[/127.0.0.1:0] logged in with entity id 50 at ([world]171.31247, 92.0, -198.44565)
+[21:50:03] [Server thread/INFO]: Villager Villager['Farmer'/1, uuid='42c58924-dca5-4e1b-8db6-8e010082aaf0', l='ServerLevel[world]', x=109.53, y=95.00, z=-205.53, cpos=[6, -13], tl=426085, v=true] died, message: 'Farmer was shot by Pillager'
+[21:50:09] [Craft Scheduler Thread - 24 - Magic/WARN]: [Magic]  Temp file for 00000000-0000-0000-0009-01f656f1d938.datexists, deleting
+[21:53:19] [Server thread/INFO]: rapa2845 was shot by Pillager
+[21:54:20] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/5, uuid='5cf900d1-f855-498e-b6d5-6fc964f9f1b9', l='ServerLevel[world]', x=128.25, y=42.13, z=-193.01, cpos=[8, -13], tl=390351, v=true] died: Infernal Zombie suffocated in a wall
+[21:55:57] [Server thread/INFO]: rapa2845 has made the advancement [Ol' Betsy]
+[21:56:18] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/1210, uuid='20ee4106-7886-45b7-b1dc-980b7496e897', l='ServerLevel[world]', x=14.54, y=105.67, z=-197.82, cpos=[0, -13], tl=3739, v=true] died: Infernal Skeleton suffocated in a wall

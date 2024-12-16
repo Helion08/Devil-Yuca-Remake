@@ -916,7 +916,6 @@ e90d4066-42fa-47e4-94fd-18eba68f8420: morph,mounted,1up,molten,firework
 8024f64d-fb1e-4f37-96ed-fb8a266f6b7e: blinding,quicksand,thief
 f9088c97-b0b0-4949-a351-b6ec2ff68ba4: firework,flying,blinding,1up,cloaked,potions,sapper
 be776a8d-f976-4b9e-b7af-6bfb07107780: molten,morph,ender,berserk,cloaked,mounted,poisonous
-5cf900d1-f855-498e-b6d5-6fc964f9f1b9: necromancer,blinding,storm,mounted,flying,weakness,webber
 92c04121-3092-4146-8bc9-d6530ecd79c2: webber,necromancer,firework,armoured
 8ddba720-f234-4012-8200-ef169f17865c: lifesteal,storm,quicksand
 ed230c35-af46-480e-9958-90f9aa5b222e: potions,berserk,molten,storm,tosser
@@ -1208,3 +1207,19 @@ a7736c51-f821-4d1b-8a13-0aef7c99be0f: morph,thief,quicksand,berserk,rust
 a4a8a640-ba81-48e2-89fe-d3c8208f1117: cloaked,flying,sprint,webber,armoured,potions
 0a227fd0-c49e-4277-ab93-fc931bfc766a: gravity,firework,storm,vengeance,potions,rust
 c24429b1-9017-4d12-8aea-80b08b5e1679: thief,morph,sapper,explode
+f42805e1-7f81-47ce-b001-ebb76dc81c16: rust,explode,flying,armoured,weakness,bullwark,sapper
+acb3abf6-df39-44fe-b51b-63cfe7a2e9c0: flying,ghost,weakness
+e2114425-59d2-4527-bde5-594ae53b70da: ghastly,necromancer,1up
+3da7e9a3-0851-4810-bd56-a11b399624c3: potions,vengeance,morph,blinding,firework
+a121edca-7038-48b1-b2b7-535ce18ef407: storm,sapper,blinding,ender,quicksand,tosser
+a6c16b91-a6a2-47d4-b524-28a2413ad106: sapper,gravity,thief,vengeance
+f82205ae-88ed-46d9-83fe-b46c08b24804: mama,blinding,armoured,flying,archer,berserk
+067fc438-49a2-4616-82d4-35afef6809d7: ghost,quicksand,blinding
+66a92778-6211-4902-8f79-8eb7692ca277: weakness,lifesteal,morph,molten,ghost,armoured,storm
+8670ab7c-8e77-4441-bcb8-7e33e9b5e65a: molten,flying,bullwark,firework,archer
+c5eee421-046a-4fd9-aab2-022bee9ecb44: withering,bullwark,sprint,armoured,lifesteal
+9bed23ec-4c6b-418d-8f5e-4d2470a68b8a: storm,armoured,lifesteal,thief,necromancer,blinding
+d46f4a60-f317-4107-8bad-9ecb79cdba90: morph,firework,cloaked,ghastly,blinding,storm,sapper
+cf1444a5-788c-44ef-9677-5682bc9ea98c: lifesteal,quicksand,ender,sprint
+df3940cf-87ed-4750-a474-df52e77602fb: archer,webber,storm,explode,bullwark,thief
+01be20f2-2329-4f9b-9cca-a323dab26004: lifesteal,ghost,potions
