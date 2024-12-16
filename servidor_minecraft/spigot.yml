@@ -17,10 +17,6 @@ messages:
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
   restart: Server is restarting
-advancements:
-  disable-saving: false
-  disabled:
-  - minecraft:story/disabled
 settings:
   bungeecord: false
   save-user-cache-on-stop-only: false
@@ -57,11 +53,16 @@ commands:
   - summon
   - testforblock
   - tellraw
+advancements:
+  disable-saving: false
+  disabled:
+  - minecraft:story/disabled
 world-settings:
   default:
     below-zero-generation-in-existing-chunks: true
     view-distance: default
     simulation-distance: default
+    thunder-chance: 100000
     merge-radius:
       item: 0.5
       exp: -1.0
@@ -69,7 +70,6 @@ world-settings:
     item-despawn-rate: 6000
     arrow-despawn-rate: 1200
     trident-despawn-rate: 1200
-    thunder-chance: 100000
     zombie-aggressive-towards-villager: true
     nerf-spawner-mobs: false
     enable-zombie-pigmen-portal-spawns: true

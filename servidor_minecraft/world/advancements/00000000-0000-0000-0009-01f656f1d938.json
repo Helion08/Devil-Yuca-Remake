@@ -7,7 +7,6 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:snowy_slopes": "2024-12-16 19:15:10 +0000",
       "minecraft:dark_forest": "2024-12-15 21:23:29 +0000",
       "minecraft:grove": "2024-12-15 21:23:35 +0000",
       "minecraft:meadow": "2024-12-15 21:10:38 +0000",
@@ -1336,30 +1335,6 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-16 16:58:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2024-12-16 19:13:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2024-12-16 19:13:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2024-12-16 19:13:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
-    "criteria": {
-      "walk_on_powder_snow_with_leather_boots": "2024-12-16 19:15:26 +0000"
     },
     "done": true
   },

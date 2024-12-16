@@ -1,7 +1,7 @@
 id: 00000000-0000-0000-0009-01fc427adbd4
 name: ColdestThrone20
 created: 1732756688278
-updated: 1734296298819
+updated: 1734378812161
 last_cast: 0
 cooldown_expiration: 0
 last_death_location: 88.32739,94.05489,-199.58751,world,-3.0517578E-5,0.0
@@ -29,7 +29,7 @@ classes:
   caster: {}
   mage:
     effect_color: 5e13e14ceb66,e1a8883d98bb,47febf7cf178
-    mana_timestamp: 1734296298716
+    mana_timestamp: 1734378812159
     mana: 50.0
 transient_modifiers: {}
 active_class: mage
