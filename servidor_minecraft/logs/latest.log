@@ -653,3 +653,17 @@ Changelog: https://github.com/SpraxDev/BetterChairs/blob/main/CHANGELOG.md#versi
 [21:55:57] [Server thread/INFO]: rapa2845 has made the advancement [Ol' Betsy]
 [21:56:18] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/1210, uuid='20ee4106-7886-45b7-b1dc-980b7496e897', l='ServerLevel[world]', x=14.54, y=105.67, z=-197.82, cpos=[0, -13], tl=3739, v=true] died: Infernal Skeleton suffocated in a wall
 [22:05:31] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/2308, uuid='16d1ffd6-cb27-477d-b433-5a2d0a8c2116', l='ServerLevel[world]', x=70.82, y=70.17, z=-158.52, cpos=[4, -10], tl=4282, v=true] died: Infernal Skeleton suffocated in a wall
+[22:14:44] [User Authenticator #0/INFO]: UUID of player AminAbel05 is 7aeaa6e0-a988-3ae0-80a2-c88e2d558730
+[22:14:47] [Server thread/INFO]: AminAbel05 joined the game
+[22:14:47] [Server thread/INFO]: AminAbel05[/127.75.33.127:58517] logged in with entity id 5431 at ([world]250.24494644119144, 94.0, -221.91877142958558)
+[22:14:56] [Server thread/WARN]: rapa2845 moved wrongly!
+[22:14:57] [Server thread/WARN]: rapa2845 moved wrongly!
+[22:17:16] [Async Chat Thread - #0/INFO]: [Not Secure] <AminAbel05> RAFAAA
+[22:17:21] [Async Chat Thread - #1/INFO]: [Not Secure] <AminAbel05> Discord
+[22:17:40] [Server thread/WARN]: rapa2845 moved wrongly!
+[22:17:48] [Server thread/INFO]: rapa2845 died
+[22:18:53] [localSession-7-2/INFO]: [Geyser-Spigot] rapa2845 has disconnected from the Java server because of Bedrock client disconnected
+[22:18:53] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as rapa2845 disconnected
+[22:18:53] [Server thread/INFO]: rapa2845 lost connection: Disconnected
+[22:18:53] [Server thread/INFO]: rapa2845 left the game
+[22:18:57] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/6463, uuid='f01bcd54-5b0c-4eb8-9b11-412497df7d8e', l='ServerLevel[world]', x=207.91, y=90.51, z=-251.89, cpos=[12, -16], tl=881, v=true] died: Infernal Skeleton suffocated in a wall
