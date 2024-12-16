@@ -652,3 +652,4 @@ Changelog: https://github.com/SpraxDev/BetterChairs/blob/main/CHANGELOG.md#versi
 [21:54:20] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/5, uuid='5cf900d1-f855-498e-b6d5-6fc964f9f1b9', l='ServerLevel[world]', x=128.25, y=42.13, z=-193.01, cpos=[8, -13], tl=390351, v=true] died: Infernal Zombie suffocated in a wall
 [21:55:57] [Server thread/INFO]: rapa2845 has made the advancement [Ol' Betsy]
 [21:56:18] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/1210, uuid='20ee4106-7886-45b7-b1dc-980b7496e897', l='ServerLevel[world]', x=14.54, y=105.67, z=-197.82, cpos=[0, -13], tl=3739, v=true] died: Infernal Skeleton suffocated in a wall
+[22:05:31] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/2308, uuid='16d1ffd6-cb27-477d-b433-5a2d0a8c2116', l='ServerLevel[world]', x=70.82, y=70.17, z=-158.52, cpos=[4, -10], tl=4282, v=true] died: Infernal Skeleton suffocated in a wall
