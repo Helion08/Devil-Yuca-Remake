@@ -675,3 +675,34 @@ Changelog: https://github.com/SpraxDev/BetterChairs/blob/main/CHANGELOG.md#versi
 [22:26:53] [Server thread/WARN]: rapa2845 moved wrongly!
 [22:36:59] [Server thread/INFO]: Named entity Spider['Infernal Spider'/9446, uuid='92b85846-4faa-4a1c-b59f-facd8730d0bd', l='ServerLevel[world]', x=268.53, y=158.69, z=-408.95, cpos=[16, -26], tl=1355, v=true] died: Infernal Spider suffocated in a wall
 [22:38:01] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/9071, uuid='8305862f-d51d-413c-9010-4a0a8b2f4e69', l='ServerLevel[world]', x=282.05, y=17.51, z=-233.60, cpos=[17, -15], tl=5096, v=true] died: Infernal Skeleton suffocated in a wall
+[22:44:25] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as rapa2845 disconnected
+[22:44:25] [localSession-7-3/INFO]: [Geyser-Spigot] rapa2845 has disconnected from the Java server because of Bedrock client disconnected
+[22:44:25] [Server thread/INFO]: rapa2845 lost connection: Disconnected
+[22:44:25] [Server thread/INFO]: rapa2845 left the game
+[22:44:51] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Sunflowers2824
+[22:44:51] [localSession-7-4/INFO]: [Geyser-Spigot] Sunflowers2824 (logged in as: Sunflowers2824) has connected to the Java server
+[22:44:51] [User Authenticator #1/INFO]: UUID of player Sunflowers2824 is 5d856604-9a57-304b-bec7-c62529dd4d52
+[22:44:51] [Server thread/INFO]: Sunflowers2824 joined the game
+[22:44:51] [Server thread/INFO]: Sunflowers2824[/127.0.0.1:0] logged in with entity id 10604 at ([world]141.44135, 91.0, -196.7658)
+[22:45:10] [localSession-7-4/INFO]: [Geyser-Spigot] Sunflowers2824 has disconnected from the Java server because of Bedrock client timed out
+[22:45:10] [Server thread/INFO]: Sunflowers2824 lost connection: Disconnected
+[22:45:10] [Server thread/INFO]: Sunflowers2824 left the game
+[22:45:37] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Sunflowers2824
+[22:45:37] [localSession-7-1/INFO]: [Geyser-Spigot] Sunflowers2824 (logged in as: Sunflowers2824) has connected to the Java server
+[22:45:37] [Server thread/INFO]: [floodgate] Floodgate player logged in as Sunflowers2824 joined (UUID: 00000000-0000-0000-0009-01ff67c476ad)
+[22:45:37] [Server thread/INFO]: Sunflowers2824 joined the game
+[22:45:37] [Server thread/INFO]: Sunflowers2824[/127.0.0.1:0] logged in with entity id 10778 at ([world]248.69999, 88.0, -175.69999)
+[22:46:24] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username rapa2845
+[22:46:24] [localSession-7-2/INFO]: [Geyser-Spigot] rapa2845 (logged in as: rapa2845) has connected to the Java server
+[22:46:24] [Server thread/INFO]: [floodgate] Floodgate player logged in as rapa2845 joined (UUID: 00000000-0000-0000-0009-01f656f1d938)
+[22:46:24] [Server thread/INFO]: rapa2845 joined the game
+[22:46:24] [Server thread/INFO]: rapa2845[/127.0.0.1:0] logged in with entity id 10931 at ([world]333.39935, 98.2165684910643, -295.24646)
+[22:46:48] [User Authenticator #2/INFO]: UUID of player FNCalessxx is 80f15ff1-1734-3600-98c8-353bc0190edc
+[22:46:49] [Server thread/INFO]: FNCalessxx joined the game
+[22:46:49] [Server thread/INFO]: FNCalessxx[/127.119.24.26:40657] logged in with entity id 11021 at ([world]115.5, 93.0, -201.5)
+[22:47:31] [Server thread/WARN]: Sunflowers2824 moved wrongly!
+[22:47:32] [Server thread/WARN]: Sunflowers2824 moved wrongly!
+[22:47:32] [Server thread/WARN]: Sunflowers2824 moved wrongly!
+[22:47:32] [Server thread/WARN]: Sunflowers2824 moved wrongly!
+[22:47:32] [Server thread/WARN]: Sunflowers2824 moved wrongly!
+[22:49:09] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/11371, uuid='0ed1bd97-abe7-4b42-809b-1bc66b8fa53a', l='ServerLevel[world]', x=287.96, y=143.74, z=-400.89, cpos=[17, -26], tl=1562, v=true] died: Infernal Skeleton suffocated in a wall

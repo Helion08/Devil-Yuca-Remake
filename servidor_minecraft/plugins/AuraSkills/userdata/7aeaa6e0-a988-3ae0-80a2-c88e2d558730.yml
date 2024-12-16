@@ -2,7 +2,7 @@ uuid: 7aeaa6e0-a988-3ae0-80a2-c88e2d558730
 skills:
   auraskills/fighting:
     level: 3
-    xp: 70.79999999999973
+    xp: 83.99999999999973
   auraskills/foraging:
     level: 3
     xp: 218.40000000000026
@@ -20,10 +20,10 @@ skills:
     xp: 100.5
   auraskills/mining:
     level: 3
-    xp: 813.1200000000192
+    xp: 974.8200000000284
   auraskills/agility:
     level: 6
-    xp: 323.5346000000007
+    xp: 511.1666000000007
   auraskills/alchemy:
     level: 0
     xp: 0.0
@@ -32,7 +32,7 @@ skills:
     xp: 0.0
   auraskills/defense:
     level: 3
-    xp: 177.806535220146
+    xp: 184.6102022171019
 mana: 26.0
 action_bar:
   idle: true
