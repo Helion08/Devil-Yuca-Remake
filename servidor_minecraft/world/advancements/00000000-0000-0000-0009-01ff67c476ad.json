@@ -12,6 +12,7 @@
       "minecraft:grove": "2024-12-16 00:43:48 +0000",
       "minecraft:meadow": "2024-12-16 00:36:45 +0000",
       "minecraft:dripstone_caves": "2024-12-16 00:50:39 +0000",
+      "minecraft:plains": "2024-12-16 22:53:35 +0000",
       "minecraft:jagged_peaks": "2024-12-16 02:22:02 +0000"
     },
     "done": false
@@ -1177,6 +1178,30 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-16 03:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-16 22:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-16 22:54:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-16 22:54:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-16 22:54:08 +0000"
     },
     "done": true
   },
