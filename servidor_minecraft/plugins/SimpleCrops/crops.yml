@@ -1,0 +1,179 @@
+#
+# Coded by: VirtusDevelops (NeutralPlasma, Gasper Lukman)
+#
+#
+# Seed types: item:MATERIAL, items:(item from items.yml), custom:(use ingame gui)
+# If using seed-type ITEM, you cannot specify lore.
+#
+#
+#
+
+seeds:
+  #
+  # Multi block seeds (like cactus, bamboo, sugarcane...)
+  # -> has the same properties as normal cactus, bamboo, sugarcane crop
+  # -> currently doesnt work with pistons / autofarms (due to lag issues)
+  #    will be fixed in next update.
+  #
+  multiBlock:
+    seed-type: "ITEM:CACTUS" # Seed item that you place, can be changed.
+    name: "&eExample MultiBlock" # Display name of the item
+    dropNaturally: true # chance to drop upon breaking grass / tall grass
+    duplicate: true # chance to drop 2 seeds when broken and fully grown (won't work on multi-block crops)
+    duplicateChance: 25.0 # what's the chance to drop 2 seeds
+    dropChance: 5.0 # Drop chance to drop from grass / tall grass
+    levelUPChance: 1.0 # chance of crop leveling up when harvested with custom hoes.
+    type: ITEMS
+
+    #
+    # Gain impacts how many drops you get from seed
+    # bigger the gain more items it gives you
+    # formula: basedrop amount + gain
+    # example: you get 2 diamonds and seed gain is 5 you'll get 7 diamonds instead.
+    #
+    gain:
+      min: 1
+      max: 3
+    #
+    # Strength is value that impacts survival rate of crop when snipped with shears
+    # percentage gets calculated from min-max dinamicaly
+    #
+    strength:
+      min: 1
+      max: 10
+    #
+    # Drops category of the crop
+    # - item drops: Works with normal and multiblock crops
+    # - command drops: Works with normal and multiblock crops
+    # - block drops: Works with pumpkin/melon like crops
+    # - structure drops: Works with tree like crops.
+    #
+    # Format: <item>:<MATERIAL>:<min>:<max>
+    #
+    #
+    drops:
+      items:
+        - "item:STONE:1:2" # Default clasic way of adding items. (if added thru gui they're byte hashed)
+        - "custom:aXRlbToKICA9PTogb3JnLmJ1a2tpdC5pbnZlbnRvcnkuSXRlbVN0YWNrCiAgdjogMTk3NgogIHR5cGU6IERJUlQK:1:10" # Might not work on older versions if you get any errors remove this.
+      commands:
+        # Commands that get executed when someone harvests the crop
+        # Valid placeholders that can be used
+        # - %player% -> gets replaced with player name that broke the seed
+        # Commands should be without the "slash" / ( see the example below )
+        #
+        - "eco give %player% 100"
+      blocks: []
+  #
+  # Example pumpkin/melon like crop
+  # -> works exactly like melon/pumpkin
+  # -> should work with auto farms.
+  #
+  Marihuana:
+    seed-type: "ITEM:WHEAT_SEEDS"
+    name: "&aSEMILLA &ade &aMARIHUANA"
+    dropNaturally: true
+    duplicate: true
+    duplicateChance: 25.0
+    levelUPChance: 1.0
+    dropChance: 5.0
+    type: ITEMS
+    gain:
+      min: 1
+      max: 10
+    strength:
+      min: 1
+      max: 10
+
+    bonemeal:
+      custom: true
+      amount: 20
+
+    drops:
+      items: []
+      commands: [ei give %player% MARIHUANA 1 <OFFLINE>] 
+
+      #
+      # Blocks that can get spawned when "pumpkin" grows
+      # format <MATERIAL>:<CHANCE>
+      #
+      # Chance has to add up to 100.0%!!!
+      #
+
+  #
+  # Normal items seed:
+  # -> works like any vanilla seed.
+  #
+  ExampleItems:
+    seed-type: "ITEMS:example-item" # item from items.yml
+    name: "&7This name has priority over ITEMS.yml"
+    dropNaturally: true
+    duplicate: true
+    duplicateChance: 25.0
+    levelUPChance: 1.0
+    dropChance: 5.0
+    type: ITEMS
+    gain:
+      min: 1
+      max: 10
+    strength:
+      min: 1
+      max: 10
+    #
+    # Custom bonemeal
+    # specify custom amount of bonemeal thats needed to grow the crop.
+    # its still a bit bugged with crops that have some growth before you start bone mealing..
+    #
+    bonemeal:
+      custom: true
+      amount: 20
+    drops:
+      items:
+        - "item:STONE:1:2"
+        - "item:DIRT:1:20"
+      commands: []
+      blocks: []
+
+  #
+  # Structure seed, grows entire structure (like tree) on grow.
+  # -> they work like vanilla trees
+  # -> you get seed back when breaking the base block from where it grew
+  #
+  copper_sapling:
+    seed-type: items:tier1_tree
+    name: '&6Copper sapling'
+    dropNaturally: false
+    duplicate: false
+    duplicateChance: 25.0
+    levelUPChance: 1.0
+    dropChance: 5.0
+
+    #
+    # Crop type, ITEMS or STRUCTURE
+    # make sure you put STRUCTURE if you want your crop to grow into structure.
+    #
+    type: STRUCTURE
+    gain:
+      min: 1
+      max: 1
+    strength:
+      min: 1
+      max: 1
+    bonemeal:
+      custom: true
+      amount: 50
+    drops:
+      items: []
+      commands: []
+      blocks: []
+
+      #
+      # List of structures crop can grow
+      # you have to create structure first with structure tool /simplecrops structuretool
+      # save structure with /simplecrops savestructure <name>
+      #
+      # Format for adding more structures to crop: <structure>:<chance>
+      #
+      structures:
+        - copper1:10.0
+        - copper2:10.0
+        - copper3:10.0

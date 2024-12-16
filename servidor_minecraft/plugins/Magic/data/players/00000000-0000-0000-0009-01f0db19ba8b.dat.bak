@@ -1,0 +1,34 @@
+id: 00000000-0000-0000-0009-01f0db19ba8b
+name: Platacon
+created: 1734298768964
+updated: 1734365522452
+last_cast: 0
+cooldown_expiration: 0
+last_death_location: -202.66423,147.0,-109.95351,world,121.52026,41.6837
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo:
+  adfc7c17-452d-4a80-a62d-d0aa1ad723ce: []
+spells: {}
+open_wand: false
+gave_welcome_wand: false
+resource_pack_preference: default
+data: {}
+properties:
+  version: 7
+classes:
+  caster: {}
+  mage:
+    effect_color: bf1f355cf59f,988d8b62a5c4,7f0edb97be55
+    mana_timestamp: 1734365522451
+    mana: 50.0
+transient_modifiers: {}
+active_class: mage
+health: 12.160001754760742

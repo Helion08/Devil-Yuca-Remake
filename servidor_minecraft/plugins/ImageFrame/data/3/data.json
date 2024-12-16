@@ -1,0 +1,59 @@
+{
+  "type": "com.loohp.imageframe.objectholders.URLStaticImageMap",
+  "index": 3,
+  "name": "kratos",
+  "url": "https://i.kym-cdn.com/photos/images/original/002/828/910/d5b.png",
+  "width": 3,
+  "height": 3,
+  "ditheringType": "nearest-color",
+  "creator": "00000000-0000-0000-0009-01fc427adbd4",
+  "hasAccess": {},
+  "creationTime": 1733351930011,
+  "mapdata": [
+    {
+      "mapid": 31,
+      "image": "0.png",
+      "markers": []
+    },
+    {
+      "mapid": 32,
+      "image": "1.png",
+      "markers": []
+    },
+    {
+      "mapid": 33,
+      "image": "2.png",
+      "markers": []
+    },
+    {
+      "mapid": 34,
+      "image": "3.png",
+      "markers": []
+    },
+    {
+      "mapid": 35,
+      "image": "4.png",
+      "markers": []
+    },
+    {
+      "mapid": 36,
+      "image": "5.png",
+      "markers": []
+    },
+    {
+      "mapid": 37,
+      "image": "6.png",
+      "markers": []
+    },
+    {
+      "mapid": 38,
+      "image": "7.png",
+      "markers": []
+    },
+    {
+      "mapid": 39,
+      "image": "8.png",
+      "markers": []
+    }
+  ]
+}

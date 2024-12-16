@@ -1,0 +1,35 @@
+id: 1f7b03cd-ed62-3ed1-8854-a2a3a7ad7a0d
+name: Helion08
+created: 1732756822522
+updated: 1734371126051
+last_cast: 0
+cooldown_expiration: 0
+last_death_location: -26.69999998807907,125.0,-135.69999998807907,world,-10.198669,14.700046
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: 30
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo:
+  adfc7c17-452d-4a80-a62d-d0aa1ad723ce: []
+  e7ec7cbd-d137-4b80-b1ce-494b6eaf1ae7: []
+spells: {}
+open_wand: false
+gave_welcome_wand: false
+resource_pack_preference: default
+data: {}
+properties:
+  version: 7
+classes:
+  caster: {}
+  mage:
+    effect_color: a679612dcb68,ba6a87734544,8de7427bce82
+    mana_timestamp: 1734371125951
+    mana: 50.0
+transient_modifiers: {}
+active_class: mage
+health: 11.965656280517578

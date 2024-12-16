@@ -1,0 +1,37 @@
+hologram:
+- '&#FF0000☠ &#FF0000&l%player% &#FF0000☠'
+- '&#00CC00⌛ &#00FF00%despawn-time% &#00CC00⌛'
+- '&#00AAFF%item% &fɪᴛᴇᴍ &8| &#00AAFF%xp% &fxᴘ'
+
+help:
+- ' '
+- '&#FF00FF&lAxGraves &7» '
+- ' &7- &f/axgraves reload &7| &#FF00FFReload plugin'
+- ' &7- &f/axgraves list &7| &#FF00FFList spawned graves'
+- ' '
+
+gui-name: '&0%player%''s Tumba'
+
+# if you restart the server, sometimes the server can't find the owner's name, this will be used for it
+unknown-player: Unknown
+
+reload:
+  success: '&#33FF33El plugin se ha recargado correctamente!'
+  failed: '&#FF3333No se pudo recargar el plugin! Algo anda mal en el &f%file%&#FF3333 archivo, ¡Mire en la consola o use un validador yaml para corregir los errores!'
+
+interact:
+  not-your-grave: '&#FFAAFFSólo puedes abrir tu propia tumba!'
+
+death-message:
+  enabled: false
+  message: '&#FFAAAATu has muerto en &f%world% %x%, %y%, %z%&#FFAAAA!'
+
+grave-list:
+  header: '&#FF00FF&l=== TUMBAS ==='
+  grave: '&#FF00FF[TP] &#FFAAFF%player% &7- &#FFAAFF%world% %x%, %y%, %z% &7(%time%)'
+  no-graves: '&#FFAAFFNo hay tumbas!'
+
+update-notifier: '&#FF88FF¡Hay una nueva versión de AxGraves disponible! &#DDDDDD(&#FFFFFFcurrent: &#FF0000%current% &#DDDDDD| &#FFFFFFlatest: &#00FF00%latest%&#DDDDDD)'
+
+# do not edit
+version: 5

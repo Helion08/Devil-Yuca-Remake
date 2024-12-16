@@ -1,0 +1,17 @@
+elevator:
+  name: '&r&dElevator'
+  # The number of elevator given during a craft
+  unit-per-craft: 1
+  recipe:
+  - AAA
+  - ABA
+  - AAA
+  ingredients:
+    A: WHITE_WOOL
+    B: ENDER_PEARL
+camouflage:
+  active: true
+  forbidden-blocks:
+  - BEDROCK
+  - BARRIER
+# ...

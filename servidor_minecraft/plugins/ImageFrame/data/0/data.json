@@ -1,0 +1,59 @@
+{
+  "type": "com.loohp.imageframe.objectholders.URLStaticImageMap",
+  "index": 0,
+  "name": "goku",
+  "url": "https://i.imgflip.com/7gy03n.jpg?a481320",
+  "width": 3,
+  "height": 3,
+  "ditheringType": "nearest-color",
+  "creator": "7aeaa6e0-a988-3ae0-80a2-c88e2d558730",
+  "hasAccess": {},
+  "creationTime": 1733173269725,
+  "mapdata": [
+    {
+      "mapid": 4,
+      "image": "0.png",
+      "markers": []
+    },
+    {
+      "mapid": 5,
+      "image": "1.png",
+      "markers": []
+    },
+    {
+      "mapid": 6,
+      "image": "2.png",
+      "markers": []
+    },
+    {
+      "mapid": 7,
+      "image": "3.png",
+      "markers": []
+    },
+    {
+      "mapid": 8,
+      "image": "4.png",
+      "markers": []
+    },
+    {
+      "mapid": 9,
+      "image": "5.png",
+      "markers": []
+    },
+    {
+      "mapid": 10,
+      "image": "6.png",
+      "markers": []
+    },
+    {
+      "mapid": 11,
+      "image": "7.png",
+      "markers": []
+    },
+    {
+      "mapid": 12,
+      "image": "8.png",
+      "markers": []
+    }
+  ]
+}

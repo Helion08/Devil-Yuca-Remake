@@ -1,0 +1,127 @@
+name: '&2MARIHUANA'
+glow: false
+disableEnchantGlide: false
+lore:
+- §aEs una droga psicoactiva depresora del sistema nervioso obtenida de la planta
+  Cannabis sativa.
+material: GREEN_DYE
+disableStack: false
+keepItemOnDeath: false
+canBeUsedOnlyByTheOwner: false
+cancelEventIfNotOwner: false
+onlyOwnerBlackListedActivators: []
+storeItemInfo: false
+unbreakable: false
+usage: 1
+usageLimit: -1
+isDurabilityBasedOnUsage: false
+cancelEventIfNoPermission: false
+whitelistedWorlds: []
+recognitions: []
+keepDefaultAttributes: false
+ignoreKeepDefaultAttributesFeature: true
+config_5: true
+config_update: false
+dropOptions:
+  glowDrop: false
+  glowDropColor: WHITE
+  displayNameDrop: false
+hiders:
+  hideEnchantments: false
+  hideUnbreakable: false
+  hideAttributes: false
+  hideUsage: false
+  hideDestroys: false
+  hidePlacedOn: false
+  hideDye: false
+  hideArmorTrim: false
+  hideAdditionalTooltip: false
+  hideToolTip: false
+enchantments: {}
+giveFirstJoin:
+  giveFirstJoin: false
+  giveFirstJoinAmount: 1
+  giveFirstJoinSlot: 0
+restrictions: {}
+variables: {}
+displayConditions:
+  playerConditions: {}
+  worldConditions: {}
+  itemConditions: {}
+  placeholdersConditions: {}
+  enableFeature: false
+food:
+  nutrition: 5
+  saturation: 5
+  isMeat: true
+  canAlwaysEat: true
+  eatSeconds: 2
+itemRarity:
+  enableRarity: false
+  rarity: COMMON
+attributes: {}
+activators:
+  activator0:
+    name: '&eACTIVADOR &eDE &eEFECTOS'
+    option: PLAYER_CONSUME
+    usageModification: -1
+    cancelEvent: false
+    noActivatorRunIfTheEventIsCancelled: false
+    silenceOutput: false
+    autoUpdateItem: false
+    updateName: true
+    updateLore: true
+    updateDurability: false
+    updateAttributes: false
+    updateEnchants: false
+    updateCustomModelData: false
+    updateArmorSettings: false
+    cooldownOptions:
+      cooldown: 0
+      isCooldownInTicks: false
+      cooldownMsg: '&cYou are in cooldown ! &7(&e%time_H%&6H &e%time_M%&6M &e%time_S%&6S&7)'
+      displayCooldownMessage: true
+      cancelEventIfInCooldown: false
+      pauseWhenOffline: false
+      pausePlaceholdersConditions: {}
+      enableVisualCooldown: false
+    globalCooldownOptions:
+      cooldown: 0
+      isCooldownInTicks: false
+      cooldownMsg: '&cYou are in cooldown ! &7(&e%time_H%&6H &e%time_M%&6M &e%time_S%&6S&7)'
+      displayCooldownMessage: true
+      cancelEventIfInCooldown: false
+      pauseWhenOffline: false
+      pausePlaceholdersConditions: {}
+      enableVisualCooldown: false
+    otherEICooldowns: {}
+    requiredItems: {}
+    requiredExecutableItems: {}
+    requiredMagics: {}
+    detailedSlots:
+    - -1
+    commands:
+    - effect give @p minecraft:absorption 90 99
+    - effect give @p minecraft:blindness 10 99
+    - effect give @p minecraft:glowing 90 99
+    - effect give @p minecraft:haste 90 99
+    - effect give @p minecraft:health_boost 90 99
+    - effect give @p minecraft:poison 10 1
+    - effect give @p minecraft:instant_health 90 99
+    - effect give @p minecraft:jump_boost 90 99
+    - effect give @p minecraft:levitation 10 99
+    - effect give @p minecraft:nausea 15 99
+    - effect give @p minecraft:regeneration 90 99
+    - effect give @p minecraft:resistance 90 99
+    - effect give @p minecraft:saturation 90 99
+    - effect give @p minecraft:slow_falling 10 99
+    - effect give @p minecraft:speed 90 99
+    - effect give @p minecraft:slowness 10 99
+    - effect give @p minecraft:strength 90 99
+    playerConditions: {}
+    worldConditions: {}
+    itemConditions: {}
+    customConditions:
+      ifNeedPlayerConfirmationCancel: false
+    placeholdersConditions: {}
+    variablesModification: {}

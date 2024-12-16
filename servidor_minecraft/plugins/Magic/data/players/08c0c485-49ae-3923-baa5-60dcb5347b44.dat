@@ -1,0 +1,34 @@
+id: 08c0c485-49ae-3923-baa5-60dcb5347b44
+name: rapa2845
+created: 1734297197307
+updated: 1734375657519
+last_cast: 0
+cooldown_expiration: 0
+last_death_location: 95.65078,93.89045,-130.35591,world,-162.45378,21.234467
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo:
+  adfc7c17-452d-4a80-a62d-d0aa1ad723ce: []
+spells: {}
+open_wand: false
+gave_welcome_wand: false
+resource_pack_preference: default
+data: {}
+properties:
+  version: 7
+classes:
+  caster: {}
+  mage:
+    effect_color: 9bfc38801007,ec6e4cca2f2,ba8ca080da3c
+    mana_timestamp: 1734375657419
+    mana: 50.0
+transient_modifiers: {}
+active_class: mage
+health: 3.821434497833252

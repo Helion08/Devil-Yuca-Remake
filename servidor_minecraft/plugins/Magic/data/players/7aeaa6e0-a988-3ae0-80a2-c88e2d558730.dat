@@ -1,0 +1,36 @@
+id: 7aeaa6e0-a988-3ae0-80a2-c88e2d558730
+name: AminAbel05
+created: 1733168905556
+updated: 1734375051423
+last_cast: 0
+cooldown_expiration: 0
+last_death_location: -28.651096035532568,125.5875,-130.50688832894025,world,45.318756,33.29996
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: 21
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo:
+  adfc7c17-452d-4a80-a62d-d0aa1ad723ce: []
+  e7ec7cbd-d137-4b80-b1ce-494b6eaf1ae7: []
+  67cb5aff-fea2-4ae6-b55a-6f1d2bb8e214: []
+spells: {}
+open_wand: false
+gave_welcome_wand: false
+resource_pack_preference: default
+data: {}
+properties:
+  version: 7
+classes:
+  caster: {}
+  mage:
+    effect_color: cee9b9657199,cd54d9d1e319,4bb4eada5cef
+    mana_timestamp: 1734375051150
+    mana: 50.0
+transient_modifiers: {}
+active_class: mage
+health: 21.200000762939453

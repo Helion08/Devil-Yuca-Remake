@@ -1,0 +1,35 @@
+id: f08e7bf6-6a38-3651-8f88-9bb81777eb15
+name: ColdestThrone20
+created: 1733349940194
+updated: 1733367312850
+last_cast: 0
+cooldown_expiration: 0
+last_death_location: ''
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo:
+  e7ec7cbd-d137-4b80-b1ce-494b6eaf1ae7: []
+  67cb5aff-fea2-4ae6-b55a-6f1d2bb8e214: []
+spells: {}
+open_wand: false
+gave_welcome_wand: false
+resource_pack_preference: default
+data: {}
+properties:
+  version: 7
+classes:
+  caster: {}
+  mage:
+    effect_color: 38747cccc34,c6bffb58dccb,3cb24b39354b
+    mana_timestamp: 1733367312749
+    mana: 50.0
+transient_modifiers: {}
+active_class: mage
+health: 20.0
