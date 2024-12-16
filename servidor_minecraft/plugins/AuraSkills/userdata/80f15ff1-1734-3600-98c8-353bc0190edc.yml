@@ -7,8 +7,8 @@ skills:
     level: 0
     xp: 51.0
   auraskills/agility:
-    level: 1
-    xp: 175.80960000000007
+    level: 2
+    xp: 57.53940000000009
   auraskills/alchemy:
     level: 0
     xp: 0.0
@@ -23,7 +23,7 @@ skills:
     xp: 0.0
   auraskills/defense:
     level: 0
-    xp: 54.0
+    xp: 73.5
   auraskills/excavation:
     level: 0
     xp: 2.6999999999999997
@@ -32,7 +32,7 @@ skills:
     xp: 62.80000000000003
   auraskills/fighting:
     level: 0
-    xp: 0.0
+    xp: 7.0
 mana: 22.0
 action_bar:
   idle: true
