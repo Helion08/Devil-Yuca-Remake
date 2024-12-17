@@ -31,3 +31,22 @@
 [00:28:33] [Server thread/INFO]: [InfernalMobs] [STDOUT] Can't spawn mount!
 [00:28:33] [Server thread/WARN]: Nag author(s): '[Eliminator]' of 'InfernalMobs v6.8' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
 [00:28:33] [Server thread/INFO]: [InfernalMobs] [STDOUT] ENDER_DRAGON is not a valid Entity!
+[00:37:41] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Sunflowers2824
+[00:37:41] [localSession-7-2/INFO]: [Geyser-Spigot] Sunflowers2824 (logged in as: Sunflowers2824) has connected to the Java server
+[00:37:42] [Server thread/INFO]: [floodgate] Floodgate player logged in as Sunflowers2824 joined (UUID: 00000000-0000-0000-0009-01ff67c476ad)
+[00:37:42] [Server thread/INFO]: Sunflowers2824 joined the game
+[00:37:42] [Server thread/INFO]: Sunflowers2824[/127.0.0.1:0] logged in with entity id 36123 at ([world]92.72301, 96.0, -125.15927)
+[00:37:57] [Server thread/WARN]: Sunflowers2824 moved wrongly!
+[00:38:07] [Async Chat Thread - #4/INFO]: [Not Secure] <Sunflowers2824> RAFAEL JUYE
+[00:38:13] [Async Chat Thread - #4/INFO]: [Not Secure] <Sunflowers2824> afuera de tu casa
+[00:38:19] [Server thread/INFO]: Sunflowers2824 died
+[00:39:58] [Timer-1/INFO]: [BetterChairs] Found a new update v1.12.0 -> v1.13.0 — Download the update from: 
+modrinth: https://modrinth.com/plugin/betterchairs
+Hangar: https://hangar.papermc.io/Sprax/BetterChairs
+SpigotMC: https://r.spiget.org/84809
+GitHub: https://github.com/SpraxDev/BetterChairs/releases
+
+Changelog: https://github.com/SpraxDev/BetterChairs/blob/main/CHANGELOG.md#version-1130
+[00:40:45] [Async Chat Thread - #6/INFO]: [Not Secure] <Sunflowers2824> que linda tu skin
+[00:41:26] [Async Chat Thread - #6/INFO]: [Not Secure] <Sunflowers2824> vamo a ir pa la vaina de lo cherry?
+[00:41:36] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/36440, uuid='65b5c608-761d-4669-88a6-bb8fe1e340f6', l='ServerLevel[world]', x=54.97, y=65.67, z=10.20, cpos=[3, 0], tl=2455, v=true] died: Infernal Zombie suffocated in a wall
