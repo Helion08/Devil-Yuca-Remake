@@ -84,3 +84,7 @@ Changelog: https://github.com/SpraxDev/BetterChairs/blob/main/CHANGELOG.md#versi
 [01:00:20] [Server thread/WARN]: rapa2845 moved wrongly!
 [01:00:23] [Server thread/INFO]: rapa2845 was slain by Spider
 [01:07:04] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/39115, uuid='08e69f38-12a2-4adf-a182-96479da637a9', l='ServerLevel[world]', x=37.78, y=133.00, z=-150.59, cpos=[2, -10], tl=1607, v=true] died: Infernal Zombie burned to death
+[01:19:52] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as rapa2845 disconnected
+[01:19:52] [localSession-7-3/INFO]: [Geyser-Spigot] rapa2845 has disconnected from the Java server because of Bedrock client disconnected
+[01:19:52] [Server thread/INFO]: rapa2845 lost connection: Disconnected
+[01:19:52] [Server thread/INFO]: rapa2845 left the game
