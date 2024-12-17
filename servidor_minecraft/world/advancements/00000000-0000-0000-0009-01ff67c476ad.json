@@ -716,6 +716,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-16 23:53:07 +0000",
+      "minecraft:skeleton": "2024-12-17 00:02:00 +0000",
       "minecraft:zombie": "2024-12-16 01:41:53 +0000"
     },
     "done": false
