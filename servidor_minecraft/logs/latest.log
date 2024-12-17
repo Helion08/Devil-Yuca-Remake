@@ -88,3 +88,82 @@ Changelog: https://github.com/SpraxDev/BetterChairs/blob/main/CHANGELOG.md#versi
 [01:19:52] [localSession-7-3/INFO]: [Geyser-Spigot] rapa2845 has disconnected from the Java server because of Bedrock client disconnected
 [01:19:52] [Server thread/INFO]: rapa2845 lost connection: Disconnected
 [01:19:52] [Server thread/INFO]: rapa2845 left the game
+[01:25:38] [Server thread/INFO]: [Magic] Server is shutting down, closing all wand inventories
+[01:25:38] [Server thread/INFO]: Stopping the server
+[01:25:38] [Server thread/INFO]: Stopping server
+[01:25:38] [Server thread/INFO]: [Streamotes] Disabling Streamotes v1.2.3
+[01:25:38] [Server thread/INFO]: [PlayerCarry] Disabling PlayerCarry v1.1
+[01:25:38] [Server thread/INFO]: [AxGraves] Disabling AxGraves v1.16.0
+[01:25:38] [Server thread/INFO]: [CustomCrafting] Disabling CustomCrafting v4.16.11
+[01:25:38] [Server thread/INFO]: [BetterChairs] Disabling BetterChairs v1.12.0
+[01:25:38] [Server thread/INFO]: [GlowingItems] Disabling GlowingItems v1.0.3
+[01:25:38] [Server thread/INFO]: [GlowingItems] GlowingItems is stopping! Bye!
+[01:25:38] [Server thread/INFO]: [InteractionVisualizer] Disabling InteractionVisualizer v1.18.10.0
+[01:25:38] [Server thread/INFO]: [InteractionVisualizer] Saving player preferences bitmask index, do not halt the server.
+[01:25:38] [Server thread/INFO]: [InteractionVisualizer] InteractionVisualizer has been disabled!
+[01:25:38] [Server thread/INFO]: [Waypoints] Disabling Waypoints v4.5.5
+[01:25:38] [Server thread/INFO]: [ExecutableItems] Disabling ExecutableItems v7.24.12.3
+[01:25:38] [Server thread/INFO]: [SCore] Disabling SCore v5.24.12.3
+[01:25:38] [Server thread/INFO]: SCore Save UsagePerDay....
+[01:25:38] [Server thread/INFO]: SCore Save UsagePerDay done !
+[01:25:38] [Server thread/INFO]: SCore Save Commands...
+[01:25:38] [Server thread/INFO]: SCore Save Commands done !
+[01:25:38] [Server thread/INFO]: SCore Save Cooldowns...
+[01:25:38] [Server thread/INFO]: SCore 0 cooldowns saved
+[01:25:38] [Server thread/INFO]: SCore Save Cooldowns done !
+[01:25:38] [Server thread/INFO]: SCore Run delayed saving tasks...
+[01:25:38] [Server thread/INFO]: SCore Run delayed saving tasks done !
+[01:25:38] [Server thread/INFO]: [BackpackPlus] Disabling BackpackPlus v1.4.5
+[01:25:38] [Server thread/INFO]: [BackpackPlus] SQLite Successfully disconnected from the database
+[01:25:38] [Server thread/INFO]: [ReviveMe] Disabling ReviveMe v0.4.4
+[01:25:38] [Server thread/INFO]: ReviveMe disable
+[01:25:38] [Server thread/INFO]: [RottenFlesh2Leather] Disabling RottenFlesh2Leather v1.21-v1.0
+[01:25:38] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.2.6
+[01:25:38] [Server thread/INFO]: [InfernalMobs] Disabling InfernalMobs v6.8
+[01:25:38] [Server thread/INFO]: [ImageFrame] Disabling ImageFrame v1.7.9.0
+[01:25:38] [Server thread/INFO]: [ImageFrame] ImageFrame has been Disabled!
+[01:25:38] [Server thread/INFO]: [Elevator] Disabling Elevator v1.2
+[01:25:38] [Server thread/INFO]: [Elevator] [STDOUT] Simple Elevator is to stop !
+[01:25:38] [Server thread/WARN]: Nag author(s): '[Lamdis]' of 'Elevator v1.2' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[01:25:38] [Server thread/INFO]: [Sleeper] Disabling Sleeper v1.5.3
+[01:25:38] [Server thread/INFO]: [Sleeper] Sleeper Has Been Disabled!
+[01:25:38] [Server thread/INFO]: [TeaWaystones] Disabling TeaWaystones v1.0.5
+[01:25:38] [Server thread/INFO]: [SuperEnchants] Disabling SuperEnchants v2.6.7
+[01:25:38] [Server thread/INFO]: [Brewery] Disabling Brewery v3.1.1
+[01:25:38] [Server thread/INFO]: [Brewery] Brewery disabled!
+[01:25:38] [Server thread/INFO]: [SimpleCrops] Disabling SimpleCrops v2.1.5-BETA
+[01:25:38] [Server thread/INFO]: [eu.virtusdevelops.simplecrops.hikari.HikariDataSource] Storage - Shutdown initiated...
+[01:25:38] [Server thread/INFO]: [eu.virtusdevelops.simplecrops.hikari.HikariDataSource] Storage - Shutdown completed.
+[01:25:38] [Server thread/INFO]: [WolfyUtilities] Disabling WolfyUtilities v4.17-beta.7
+[01:25:38] [Server thread/INFO]: [WolfyUtilities] Save stored Custom Items
+[01:25:38] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.5.1-SNAPSHOT
+[01:25:38] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[01:25:38] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[01:25:38] [Server thread/INFO]: [QualityArmory] Disabling QualityArmory v2.0.16
+[01:25:38] [Server thread/INFO]: [Magic] Disabling Magic v10.9.4-1bea7e8
+[01:25:38] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[01:25:38] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[01:25:38] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.1.1
+[01:25:38] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[01:25:38] [Server thread/INFO]: Saving players
+[01:25:38] [Server thread/INFO]: Saving worlds
+[01:25:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:25:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:25:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:25:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[01:25:38] [WebSocketConnectReadThread-1720/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[01:25:38] [Server thread/INFO]: [ChunkHolderManager] Saved 82 block chunks, 245 entity chunks, 0 poi chunks in world 'world' in 0.13s
+[01:25:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:25:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:25:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:25:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[01:25:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[01:25:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:25:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:25:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:25:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[01:25:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[01:25:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:25:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:25:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:25:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
