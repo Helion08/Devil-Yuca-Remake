@@ -784,3 +784,12 @@ Changelog: https://github.com/SpraxDev/BetterChairs/blob/main/CHANGELOG.md#versi
 [23:50:06] [Server thread/INFO]: rapa2845[/127.0.0.1:0] logged in with entity id 30407 at ([world]180.32576, 92.0, -170.03075)
 [23:50:12] [Server thread/INFO]: Villager Villager['Fletcher'/124, uuid='460fbff7-4c16-4925-a3b0-2f9a1295fa1d', l='ServerLevel[world]', x=102.53, y=102.00, z=-221.74, cpos=[6, -14], tl=374826, v=true] died, message: 'Fletcher was shot by Pillager'
 [23:50:46] [Server thread/INFO]: Villager Villager['Farmer'/16, uuid='d43e3384-ef43-4830-9fb9-3fcf37985bac', l='ServerLevel[world]', x=121.77, y=101.00, z=-228.44, cpos=[7, -15], tl=275179, v=true] died, message: 'Farmer was shot by Pillager'
+[23:56:54] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as Sunflowers2824 disconnected
+[23:56:54] [localSession-7-1/INFO]: [Geyser-Spigot] Sunflowers2824 has disconnected from the Java server because of Bedrock client disconnected
+[23:56:54] [Server thread/INFO]: Sunflowers2824 lost connection: Disconnected
+[23:56:54] [Server thread/INFO]: Sunflowers2824 left the game
+[23:57:15] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Sunflowers2824
+[23:57:15] [localSession-7-3/INFO]: [Geyser-Spigot] Sunflowers2824 (logged in as: Sunflowers2824) has connected to the Java server
+[23:57:15] [Server thread/INFO]: [floodgate] Floodgate player logged in as Sunflowers2824 joined (UUID: 00000000-0000-0000-0009-01ff67c476ad)
+[23:57:15] [Server thread/INFO]: Sunflowers2824 joined the game
+[23:57:15] [Server thread/INFO]: Sunflowers2824[/127.0.0.1:0] logged in with entity id 31700 at ([world]-147.8293, 154.06057950176134, -165.92372)

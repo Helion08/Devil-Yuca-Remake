@@ -715,6 +715,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-16 23:53:07 +0000",
       "minecraft:zombie": "2024-12-16 01:41:53 +0000"
     },
     "done": false
@@ -1358,6 +1359,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-16 23:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-16 23:54:33 +0000"
     },
     "done": true
   },
