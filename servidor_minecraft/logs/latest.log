@@ -22,3 +22,12 @@
 [00:21:32] [Server thread/INFO]: [floodgate] Floodgate player logged in as rapa2845 joined (UUID: 00000000-0000-0000-0009-01f656f1d938)
 [00:21:32] [Server thread/INFO]: rapa2845 joined the game
 [00:21:32] [Server thread/INFO]: rapa2845[/127.0.0.1:0] logged in with entity id 34244 at ([world]89.26006, 93.9375, -166.94601)
+[00:22:08] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/27545, uuid='7cbe28a0-0802-4c9e-8373-ae7eed8ef11b', l='ServerLevel[world]', x=72.66, y=24.62, z=3.01, cpos=[4, 0], tl=22981, v=true] died: Infernal Zombie suffocated in a wall
+[00:23:25] [Server thread/WARN]: rapa2845 moved wrongly!
+[00:23:25] [Server thread/WARN]: rapa2845 moved wrongly!
+[00:23:25] [Server thread/INFO]: rapa2845 was shot by Infernal Skeleton
+[00:24:59] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/34212, uuid='cccea122-26a1-4dfa-9d03-511becb1bebb', l='ServerLevel[world]', x=90.95, y=96.50, z=-121.95, cpos=[5, -8], tl=4658, v=true] died: Infernal Skeleton burned to death
+[00:25:29] [Server thread/INFO]: rapa2845 died
+[00:28:33] [Server thread/INFO]: [InfernalMobs] [STDOUT] Can't spawn mount!
+[00:28:33] [Server thread/WARN]: Nag author(s): '[Eliminator]' of 'InfernalMobs v6.8' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[00:28:33] [Server thread/INFO]: [InfernalMobs] [STDOUT] ENDER_DRAGON is not a valid Entity!

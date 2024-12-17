@@ -1378,7 +1378,6 @@ b0a58054-32f8-41e2-820d-f4846fdc97f9: poisonous,rust,bullwark,weakness,ender,ven
 809b4603-a0e6-4967-92b8-f33718ff7821: mounted,explode,ghost,weakness,firework,withering,storm
 2ebdbc7d-4c6d-413f-a82f-a9167c1d07b3: armoured,explode,archer,sprint,weakness
 f7aadf44-187a-43f5-a190-1ce92d1fb21d: mama,gravity,necromancer,flying,rust,webber,mounted
-7cbe28a0-0802-4c9e-8373-ae7eed8ef11b: webber,sapper,poisonous,molten,mounted,ghastly,firework
 b55c1b33-a51b-4373-b8d0-52973ddf6d7a: morph,firework,lifesteal
 327d1746-f926-4c47-88fa-47df8f8b2539: withering,lifesteal,potions
 92bcdbdc-04bb-4e95-8769-613c4f806bb6: bullwark,poisonous,ghost,ender,tosser,potions,webber
@@ -1392,7 +1391,6 @@ fed65eaa-01f6-4d41-84fc-ea00ff35107c: ghost,sprint,mama,necromancer,potions,arch
 8111564e-7fd5-4ace-be14-d8732ef01918: thief,berserk,weakness
 8112d6bd-9f1a-498c-afd4-b8a502f323dc: ender,vengeance,armoured,webber,berserk
 a0bda8fc-8eed-40ea-a48c-34d154c236ce: flying,rust,sapper,1up,withering,ghost
-560a26c1-3613-4f8f-ba77-d4faf9fea15f: firework,ghastly,1up,molten,armoured
 5088127d-dc0f-4862-8bab-ffe44760b56f: 1up,thief,explode,quicksand,mama
 a2761e0c-b13e-4646-8e34-9fc1e5a42188: mounted,weakness,flying,withering,sapper,storm,firework
 cf19aa94-ffbd-4414-9c6a-673b9a0de9b3: berserk,lifesteal,flying,archer,withering,tosser
@@ -1418,4 +1416,12 @@ fcd9b17e-6239-47da-9dde-56534c709b2f: sapper,explode,ghastly,1up
 2176c3df-59c3-4066-9a2b-e7c27e92d7ef: potions,morph,ghost,archer
 a423dca9-7a13-4cd3-a3cb-5f6ed753cd6d: cloaked,archer,morph
 ec1fcada-cfc8-476a-a1b7-9bc39f4cafa8: archer,molten,1up,vengeance,sprint
-cccea122-26a1-4dfa-9d03-511becb1bebb: ender,webber,bullwark
+a8146c49-c2b0-4f7a-8cc9-e7d2a19702d4: ghastly,necromancer,firework,molten,archer,tosser
+ac316423-7fe2-4d2b-b3dd-475ab82206e8: ghost,armoured,lifesteal,mounted,bullwark,vengeance
+9ea55e2e-1e20-4b7e-bd47-95fe2181cfda: webber,ghost,archer,armoured,thief
+c769c32b-600a-4055-9fb9-98b3b91c50e2: blinding,storm,poisonous,morph
+c2f9746f-b414-4538-9716-0f713b5e11c1: ghastly,morph,webber,mounted,rust
+66d91bbf-7a6d-4545-94f9-55a2272a0793: vengeance,ghost,flying,mounted,molten,rust
+00284fad-e55b-4956-8e2e-da29bd9549fd: storm,archer,poisonous,bullwark,potions
+6e1cb6d7-ce97-4205-b064-254a4c58ccdf: bullwark,weakness,lifesteal,storm
+69f7d2c3-a82e-4815-90f8-5cbb7d438cab: armoured,berserk,weakness
