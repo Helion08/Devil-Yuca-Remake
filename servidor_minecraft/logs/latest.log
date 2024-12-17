@@ -9,3 +9,16 @@
 [00:10:09] [localSession-7-3/INFO]: [Geyser-Spigot] Sunflowers2824 has disconnected from the Java server because of Bedrock client disconnected
 [00:10:09] [Server thread/INFO]: Sunflowers2824 lost connection: Disconnected
 [00:10:09] [Server thread/INFO]: Sunflowers2824 left the game
+[00:20:57] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username rapa2845
+[00:20:57] [localSession-7-4/INFO]: [Geyser-Spigot] rapa2845 (logged in as: rapa2845) has connected to the Java server
+[00:20:57] [User Authenticator #5/INFO]: UUID of player rapa2845 is 08c0c485-49ae-3923-baa5-60dcb5347b44
+[00:20:57] [Server thread/INFO]: rapa2845 joined the game
+[00:20:57] [Server thread/INFO]: rapa2845[/127.0.0.1:0] logged in with entity id 34205 at ([world]94.72389, 96.0, -125.41334)
+[00:21:21] [localSession-7-4/INFO]: [Geyser-Spigot] rapa2845 has disconnected from the Java server because of Bedrock client disconnected
+[00:21:21] [Server thread/INFO]: rapa2845 lost connection: Disconnected
+[00:21:21] [Server thread/INFO]: rapa2845 left the game
+[00:21:32] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username rapa2845
+[00:21:32] [localSession-7-1/INFO]: [Geyser-Spigot] rapa2845 (logged in as: rapa2845) has connected to the Java server
+[00:21:32] [Server thread/INFO]: [floodgate] Floodgate player logged in as rapa2845 joined (UUID: 00000000-0000-0000-0009-01f656f1d938)
+[00:21:32] [Server thread/INFO]: rapa2845 joined the game
+[00:21:32] [Server thread/INFO]: rapa2845[/127.0.0.1:0] logged in with entity id 34244 at ([world]89.26006, 93.9375, -166.94601)
